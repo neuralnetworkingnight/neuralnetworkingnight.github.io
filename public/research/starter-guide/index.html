@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic-group">
+
+    
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://localhost:1313//js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="http://localhost:1313//css/bootstrap.min.css">
+    <script src="http://localhost:1313//js/bootstrap.min.js"></script>  
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css" />
+    
+    
+    <script src="http://localhost:1313//js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+    <link rel="stylesheet" href="http://localhost:1313//css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/academicons.min.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/biaslab-font.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
+    <link rel="stylesheet" href="http://localhost:1313//css/hugo-academic-group.css">
+
+    
+    <link rel="stylesheet" href="http://localhost:1313//css/neuralnetworkingnight.css">
+    
+
+
+    <link rel="shortcut icon" href="http://localhost:1313//img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="http://localhost:1313/research/starter-guide/">
+
+    <title>Starter&#39;s Guide for students at BIASlab research team | Neural Network Night</title>
+
+</head>
+
+<body>
+<div class="home-anchor" id="home"></div>
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                    <a class="logo" href="https://dim-cbrains.fr/fr/home">
+                        <img src="http://localhost:1313/img/sponsors/dim-cbrains-small.png" alt="University logo"></img>
+                    </a>
+                
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#top">Home</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/project">All Events</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/about">About the Event</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/organizers">Organizers</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#contact">Location and Time</a></li>
+                    
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+
+<div class="container">
+
+    <article class="article" itemscope itemtype="http://schema.org/Article">
+        
+
+        <h1 itemprop="name">Starter&#39;s Guide for students at BIASlab research team</h1>
+
+        <div class="row">
+            <div class="col-xs-6 article-published-at">
+                <i>Published on:</i> <p>Jul 19, 2018</p>
+            </div>
+            <div class="col-xs-6 article-authors">
+                <i>Authors:</i>
+                
+<div itemprop="author">
+        
+            
+                
+<span class="author-name">Bert de Vries</span>
+            
+        
+</div>
+
+            </div>
+        </div>
+
+        <div class="article-style" itemprop="articleBody">
+            <p>This document is a starter&rsquo;s guide for students who do an internship or graduate level (MSc, PhD) project with <a href="http://bertdv.nl">me</a>. For the duration of your project you will become part of our <a href="http://biaslab.github.io"><strong>BIASlab</strong> team of graduate students</a>. I discuss here our research mission, our way of working, the tools we use and provide some links to key scientific papers that relate to our research. This guide is always a work in progress and each project will have its own goals and dynamics. Still, generally speaking, I would appreciate if you have a look at the links and think about the issues that I raise here. Talk to me when you have questions or ideas to improve this document.</p>
+<h2 id="research">Research</h2>
+<h3 id="mission">Mission</h3>
+<figure class="right-inline"><img src="http://localhost:1313/img/starter-guide/design-loop.png" width="450px"/>
+</figure>
+
+<p>We are interested in modern AI methods that support <strong>automated design of signal processing systems</strong>, in particular in the context of audio processing algorithms. For instance, if I have a problem with (the signal processing of) my hearing aid when I am at a cocktail party, I want to fix it right there so I can stay and enjoy the party. Today, there are no proper tools that support the end user in fine-tuning his hearing aid.  We aim to develop such a support tool, and our methods are inspired by theories about learning and adaptation in the fields of (Bayesian) <strong>machine learning</strong> and <strong>computational neuroscience</strong>. In particular, we derive inspiration from recent work in neuroscience that describes how brains perceive, learn and design their algorithms for speech and object recognition, navigation, etc. In our team, we are building a very efficient Bayesian machine learning toolbox ourselves and &rsquo;eat our own dogfood&rsquo; by putting ourselves in complex acoustic situations and use our own tools to tune our audio processing algorithms. This leads to new demands on the toolbox, which drives our next research steps.</p>
+<p>In short, <strong>we work on (Bayesian) machine learning</strong> methods with applications to automated design of signal processing algorithms. Our methods are just as easily applicable though to design problems in related fields such as control, biomedical and communications engineering.</p>
+<h3 id="methodology">Methodology</h3>
+<p>I will generally ask you to work on problems that I have not solved myself and you will not be able to find a packaged solution on the internet. Also, I may not be able to provide solutions to your questions. Actually, there may not even be a solution. Accept it, you&rsquo;re doing research now. Find a simpler question that will put you on the path to an answer. Doing <strong>research is a continuous process of adaptation</strong> in <em>both</em> posing the questions <em>and</em> proposing solutions. In other words, <em>if you can&rsquo;t find the answer, change the question</em>! Start with the simplest questions and simplest solution proposals and work your way towards the more relevant issues. For further information, please have a look at Hamming&rsquo;s lecture on &lsquo;You and Your Research&rsquo;, <a href="http://www.youtube.com/watch?v=a1zDuOPkMSw" title="Hamming video, 1995">video</a> (1995) or <a href="http://www.cs.virginia.edu/~robins/YouAndYourResearch.html" title="Hamming html, 1986">html</a> (1986), and think about how this relates to your work.</p>
+<h3 id="expectations-and-deliverables">Expectations and Deliverables</h3>
+<p>Your project will likely be embedded as a building block in our research plan. I expect a <strong>professional attitude</strong> which includes that you conduct yourself as a <strong>team player</strong>. Be aware that this is <em>your</em> project so <em>you</em> are responsible for keeping an eye on departmental regulations and deadlines. Stick to deadlines and promises or inform me ahead of time when plans cannot be maintained.</p>
+<p>If you are an MSc-EE student at TU/e, then you should be familiar with the graduation project requirements as listed in the <a href="https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/electrical-engineering/curriculum/graduation-project/">education guide</a> of the Electrical Engineering department. In particular, take note that your final evaluation will be based on the following criteria:</p>
+<ol>
+<li>Understanding own specialization (25%)</li>
+</ol>
+<ul>
+<li>You should (strive to) have a deep understanding of the field/topic that you work on. A good way to get feedback on this goal is to explain to others what you work on.</li>
+</ul>
+<ol>
+<li>Research skills (25%)</li>
+</ol>
+<ul>
+<li>It&rsquo;s not enough to be smart and walk around commenting on the world around you. You should also &lsquo;get things done&rsquo;. Essentially, this issue is about your skills to navigate through your project by posing the right research questions (see the comments above on methodology).</li>
+</ul>
+<ol>
+<li>Execution (25%)</li>
+</ol>
+<ul>
+<li>This issue is about professionalism. You need to adhere to strict principles of academic honesty and contribute to technical discussions in the team. Your technical opinion is always appreciated but play the ball, not the person.</li>
+</ul>
+<ol>
+<li>Reporting (written 12.5%, oral 12.5%)</li>
+</ol>
+<ul>
+<li>All your ideas are worth nothing to society if they remain locked up inside your head. As an engineer, you must communicate your ideas well, both to technical and more general audiences.</li>
+</ul>
+<p>Aside from the aforementioned deliverables that are imposed by the Examination Committee, I place a <strong>high value on the quality of your (software) code</strong>. Consider this as a fifth examination criterion. The software that you produce in your project is the sharpest description of your ideas, so make it readable and understandable for others. If you want to read some more on this, consult <a href="http://arxiv.org/abs/1210.0530" title="Aruliah et al, Best Practices for Scientific Computing, 2012">Aruliah</a> (2012) and/or <a href="http://soundsoftware.ac.uk/icassp-2012-paper" title="Cannam et al., Sound Software: Towards Software Reuse in Audio and Music Research, 2012">Cannam</a> (2012). Generally, there are many ways to improve your coding skills, e.g., the <a href="https://www.youtube.com/watch?v=8bZh5LMaSmE">lectures by Sandi Metz</a> are nearly always interesting.</p>
+<p>If you do an internship/traineeship (before your final MSc thesis project), the examination criteria are just the same, but of course the expectations on your output are appropriately reduced.</p>
+<p>If you are from another department, please find out and notify me of which departmental rules and regulations apply to you.</p>
+<h2 id="workflow-and-tools">Workflow and Tools</h2>
+<p>I like the idea of <strong>working together asynchronously</strong>, see <a href="http://zachholman.com/talk/how-github-uses-github-to-build-github/">Zach&rsquo;s Holman talk</a> if this idea interests you. This means we use tools like <a href="https://slack.com/">slack</a> (a chatroom) and <a href="https://github.com/">github</a> (for source version control) to share ideas and code without a strict need to be in the same meeting room at the same time.</p>
+<h3 id="slack">Slack</h3>
+<figure class="left-inline"><img src="http://localhost:1313/img/starter-guide/slack-logo.png" width="100px"/>
+</figure>
+
+<p>Ideas are usually discussed in a <a href="https://slack.com/">slack</a> chatroom. Slack stores a record of the chats so our discussions are automatically documented for later use, such as getting newcomers in the team up to speed.</p>
+<!-- raw HTML omitted -->
+<h3 id="git-and-github">Git and Github</h3>
+<figure class="left-inline"><img src="http://localhost:1313/img/starter-guide/Octocat.jpg" width="100px"/>
+</figure>
+
+<p>We use the <a href="http://git-scm.com">git</a> version control system to track the various developments of our code base and we organize our projects in repositories at <a href="http://github.com">github</a>. It is important to become a smooth user of both git and github. We use git and github also to track all documents that we write ourselves, including your thesis report. In the windows environment, I recommend that you install <a href="http://windows.github.com/">github for windows</a> and/or <a href="http://code.google.com/p/tortoisegit/">TortoiseGit</a>.  <a href="https://help.github.com/articles/set-up-git">Github bootcamp</a> and Dudler&rsquo;s <a href="http://rogerdudler.github.com/git-guide/">git guide</a> are good places to start. Our workflow is loosely based on <a href="http://scottchacon.com/2011/08/31/github-flow.html">github flow</a>. The articles on <a href="http://net.tutsplus.com/articles/general/team-collaboration-with-github/">Team collaboration with github</a> and <a href="http://code.tutsplus.com/tutorials/how-to-collaborate-on-github--net-34267">How to collaborate on Github</a> also contain interesting discussions.</p>
+<h3 id="julia">Julia</h3>
+<p><figure class="left-inline"><img src="http://localhost:1313/img/starter-guide/julia-logo.png" width="120px"/>
+</figure>
+
+We use <a href="http://julialang.org/">Julia</a> as our main programming language. You are probably used to MATLAB and may be put off by the idea of having to learn another language. Don&rsquo;t worry, Julia is more-or-less an open source MATLAB variant, but much faster (within 2x speed of C) and much cooler than MATLAB. It is a very promising language for data science in general and it will help your research work a lot if you become proficient in Julia.</p>
+<p>I also recommend that you spend some time on getting familiar with <a href="https://www.youtube.com/watch?t=11&amp;v=ZB66AKW87M0">Test-Driven Development</a> (TDD) of code.</p>
+<h3 id="latex">LaTeX</h3>
+<figure class="left-inline"><img src="http://localhost:1313/img/starter-guide/latex-logo.png" width="120px"/>
+</figure>
+
+<p>The project&rsquo;s final report should be written in <a href="http://www.latex-project.org/">LaTeX</a> on <a href="https://www.overleaf.com/">Overleaf</a>. You must get familiar with LaTeX early during your project, because we start writing the final report very soon after the start of the project.</p>
+<h3 id="zotero">Zotero</h3>
+<figure class="left-inline"><img src="http://localhost:1313/img/starter-guide/zotero-logo.png" width="100px"/>
+</figure>
+
+<p>After you join the BIASlab team you will also get access to our literature collection that we store online in a  <a href="https://www.zotero.org/">Zotero</a> repository. This will help you get an overview of all relevant papers in our field.</p>
+<!-- raw HTML omitted -->
+<h3 id="reporting-tips">Reporting Tips</h3>
+<p>Start working on the final report in the first month of the project. In particular, if you follow <a href="https://dl.dropboxusercontent.com/u/4512522/Magnusson_1996-How_to_write_backwards.pdf">Magnusson&rsquo;s advice to write backwards</a> (<em>start with the conclusions</em>!), then you can <strong>turn report writing into a powerful research tool</strong> that reveals your next steps to pursue. I <em>strongly</em> encourage you to have a look at <a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk.htm">Simon Peyton Jones</a>&rsquo; lectures on <strong>writing a paper</strong> (<a href="http://sms.cam.ac.uk/media/1464870">video</a> and <a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf">slides</a>) and <strong>giving a talk</strong> (<a href="http://research.microsoft.com/apps/video/default.aspx?id=168648">video</a> and <a href="http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk-slides.pdf">slides</a>).</p>
+<p>In general, if you work on a MSc thesis project or higher, I&rsquo;d like you to make a (final) report update at least once a month. The final report should be in the form of a publishable IEEE journal paper. So, working on a project implies a monthly refinement of the paper until it&rsquo;s ready for submission (or project time runs out). Use the process of incremental report refinement as a tool to discover what you need to work on next.</p>
+<h2 id="your-first-month">Your First Month</h2>
+<p>What should you focus on during the first month of your project?</p>
+<p>In the first week:</p>
+<ul>
+<li>Copy and paste in an email addressed to me the following text:</li>
+</ul>
+<blockquote>
+<p>&lt;&mdash;BEGIN EMAIL TEXT&mdash;&gt;</p>
+</blockquote>
+<blockquote>
+<p>I hereby declare that I will protect the confidential nature of private BIASlab repositories at github. In more general terms, I will not share with third parties any research materials that have been authored by BIASlab members without prior consultation with prof. Bert de Vries.</p>
+</blockquote>
+<blockquote>
+<p>&ndash; signed, your name and date</p>
+</blockquote>
+<blockquote>
+<p>&lt;&mdash;END EMAIL TEXT&mdash;&gt;</p>
+</blockquote>
+<ul>
+<li>Send me your CV and transcript by email</li>
+<li>Provide me with your email address (preferably a gmail account), tel number, and a portrait image (for inclusion on web site, team presentation in powerpoint slides etc)</li>
+</ul>
+<p>Then, start your project:</p>
+<ul>
+<li>
+<p>You need to get your project goals sharp. Therefore, I suggest that you write your first draft for the project&rsquo;s final report by the end of the first month, with <strong>focus on the conclusions</strong> (see previously mentioned reporting advice by Magnusson). This first-draft edition of the final paper may find dual use as your project proposal. We are well-aware that the actual project plan may change as the project unrolls due to unforeseen obstacles. Your final evaluation will therefore be based on balancing the realization of project goals versus your creativity in coping with difficult spots.</p>
+</li>
+<li>
+<p>Next to the final goals, you need to understand your starting point. Please <strong>get familiar with our existing code base</strong> (at github) that you will be working with. You should be able to understand (y)our code enough to make a change confidently. This also means that you&rsquo;ll have to start training yourself how to code in Julia and how to work with git (and github). Working with Julia, git and github is a process that you will gradually improve upon, but don&rsquo;t postpone training yourself on these tools. If you have no experience with version control software, this may feel like a burden in the beginning, but it will become a major asset (for the rest of your career) once you make it a habit to record changes by version control.</p>
+</li>
+</ul>
+<p>Once you got your final goals and starting point clear, you can make an attempt at a project plan. The project plan is basically a list of intermediate goals (called: <em>milestones</em>) that you intend to complete on your way from starting point to final goals.</p>
+<ul>
+<li>Finally, I will give you some literature specifically tailored for your project. You should start training yourself in Bayesian modeling and how to do Bayesian inference through message passing in graphical models.</li>
+</ul>
+<h2 id="want-to-get-started-ahead-of-time">Want to Get Started ahead of Time?</h2>
+<p>In principle, you are not required to prepare anything before your project starts, but I will give here some pointers in case you are eager to get going or to read up on some background materials.</p>
+<ul>
+<li>
+<p>One way to start is to read my <a href="http://alexandria.tue.nl/extra2/redes/vries2013.pdf">booklet</a> that I wrote for my inaugual lecture and to watch that <a href="https://www.youtube.com/watch?v=l0DuYblLEGA">lecture at youtube</a> (starts after 7 minutes). This kind of shows where our research interests lie, but don&rsquo;t take it very literally. There is of course room to negotiate your project to match your personal interests.</p>
+</li>
+<li>
+<p>If you&rsquo;re not yet convinced about the value of fast iteration cycles for design, I&rsquo;d like you to watch two additional videos. First, I recommend that you watch the first 30 minutes of this <a href="https://vimeo.com/36579366">presentation by Bret Victor</a> (you should watch this video anyway, just because it&rsquo;s awesome). A second interesting viewpoint relates to &rsquo;lean design&rsquo; or the &rsquo;lean startup&rsquo; which is well presented in this <a href="https://www.youtube.com/watch?v=fEvKo90qBns">presentation by Eric Ries</a>. Both presentations are not about signal processing nor about machine learning but they do support the idea that <em>fast iterations driven by end user feedback</em> is a fundamentally sound approach to the design of complex systems.</p>
+</li>
+<li>
+<p>There is a vast literature on (Bayesian) machine learning. If you time it right, this <a href="https://www.coursera.org/course/ml">course by Andrew Ng</a> would probably be an excellent way to start. You could also give <a href="http://goo.gl/jhml0">Zoubin Ghahramani&rsquo;s lectures</a> a go. This <a href="http://seas.harvard.edu/courses/cs281/">class by Ryan Adams</a> lists a fairly comprehensive literature list. By no means do you need to absorb all these materials; I recommend that you watch Ghahramani&rsquo;s videos and look further based on interest.</p>
+</li>
+<li>
+<p>In terms of inference and learning methods, we are particularly interested in variational Bayesian learning in factor graphs, a.k.a. <em>Variational Message Passing</em> (VMP). VMP enjoys many interesting features, but it is not easy to get familiar with. A good way to start would be <a href="http://videolectures.net/mackay_course_14/">Mackay&rsquo;s video lecture on variational methods</a>.</p>
+</li>
+<li>
+<p>If you want to learn about Probabilistic Graphical Models (PGMs) in general, I recommend <a href="http://research.microsoft.com/en-us/um/people/cmbishop/talks.htm">Bishop&rsquo;s lectures at Tuebingen</a> or <a href="http://scpro.streamuk.com/uk/player/Default.aspx?wid=7739" title="Bishop, Embracing Uncertainty: The new machine intelligence, 2010">Bishop&rsquo;s 2010 Turing lecture</a>.</p>
+</li>
+<li>
+<p>For more information on the specific PGM style that we use (Forney-style Factor Graphs), please see <a href="https://www.youtube.com/watch?v=Fv2YbVg9Frc&amp;t=31">this lecture</a> by Frederico Wadehn or these papers: <a href="http://e-collection.library.ethz.ch/eserv/eth:28176/eth-28176-02.pdf">Sascha Korl dissertation, 2005</a> and <a href="http://www.isiweb.ee.ethz.ch/papers/docu/aloe-jdau-juhu-skor-2007-1.pdf">Loeliger et al., 2007</a>.</p>
+</li>
+<li>
+<p>If you want to see how we have used factor graphs in one of our projects, here is a <a href="https://research.tue.nl/en/publications/automated-design-of-bayesian-signal-processing-algorithms">recent PhD thesis</a> from one of our team members. No need to read this in detail, but it is an example of what we do.</p>
+</li>
+<li>
+<p>You could also get started in Julia if you like. See the <a href="http://julialang.org/learning/">&rsquo;learning&rsquo; site at julialang.org</a> . You can get started to program in julia e.g. at <a href="https://www.juliabox.com/">JuliaBox</a>, or you can <a href="http://julialang.org/">install Julia yourself</a>.</p>
+</li>
+<li>
+<p>Finally, our research focuses more on machine learning methods than audio processing per se, but <a href="http://asp.eurasipjournals.com/content/pdf/1687-6180-2005-152674.pdf" title="Hamacher at al, Signal Processing in High-End Hearing Aids: State of the Art, Challenges, and Future Trends, 2005">Hamacher et al., 2005</a> would be a good place to read up on hearing aid signal processing.</p>
+</li>
+</ul>
+<p>Let me know if this guide helps you and feel free to suggest updates. Good luck and welcome to the team! We look much forward to working with you.</p>
+
+        </div>
+
+
+
+    </article>
+
+    <nav>
+    <ul class="pager">
+        
+
+        
+    </ul>
+</nav>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            © Neural Networking Night, 2024 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#home" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+</script>
+
+<script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
+</body>
+</html>
+

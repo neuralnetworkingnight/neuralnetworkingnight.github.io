@@ -1,0 +1,182 @@
+publishdir = "public"
+static = "/static"
+builddrafts = false
+# Replace this with your website URL
+baseurl = "https://neuralnetworkingnight.github.io/"
+canonifyurls = true
+theme = "hugo-academic-group"
+languageCode = 'en-us'
+title = "Neural Network Night"
+math = true
+copyright = "&copy; Neural Networking Night, 2024 "
+
+[taxonomies]
+category = "categories"
+tag = "tags"
+
+
+[params]
+  description = "Website of the Neural Networking Night seminar series in a pub"
+  author = "Michael Graupner"
+  #email = "michael.graupner@u-paris.fr"
+  address = "Le Piano Vache, <a href='https://maps.app.goo.gl/JuB9ZnnEf1F9dSsk8'>8 Rue Laplace, 75005 Paris</a>"
+  slogan = "Neural Networking Night"
+  textbox = "The _Neural Networking Night_ is held at the iconic student pub “Le Piano Vache” (8 Rue Laplace, 75005 Paris), located in the academic heart of Paris. Seminars take place on _Fridays at 5pm_ and are followed by time for informal conversations and socializing. By combining the rigor of scientific discussion with the relaxed atmosphere of a pub, we hope to create an engaging environment that encourages the dissemination of preliminary results, and that sparks conversations potentially leading to future collaborations."
+  #slogan_text = "Re-evaluating the role of the Cerebellum "
+  #slogan_icon = "icon-spsbrats_logo"
+  custom_css = ["neuralnetworkingnight.css"]
+
+[params.logo]
+    image = "img/sponsors/dim-cbrains-small.png"
+    link = "https://dim-cbrains.fr/fr/home"
+    position = 1
+
+#[[params.navbar_hierarchy]]
+#    name = "DEC"
+#    link = "https://cognition.ens.fr/en"
+#    position = 1
+
+#[[params.navbar_hierarchy]]
+#    name = "LNC2"
+#    link = "https://lnc2.dec.ens.fr/en"
+#    position = 2
+
+#[[params.navbar_hierarchy]]
+#    name = "GNT"
+#    link = "https://gnt.dec.ens.fr/en"
+#    position = 3
+
+[[params.sponsors]]
+    name = "DIM C-BRAINS"
+    link = "https://dim-cbrains.fr/fr/home"
+    image = "/img/sponsors/dim-cbrains-logo.png"
+
+[[params.sponsors]]
+    name = "Région Île-de-France"
+    link = "https://www.iledefrance.fr/"
+    image = "/img/sponsors/region-idf-logo.png"
+
+
+#  [[params.slogan_columns]]
+#    title = "."
+#    text =  "."
+#    link = "/"
+#    link_text = ""
+#    weight = 1
+  
+  #[[params.slogan_columns]]
+  #  title = "Mission"
+  #  text = "Per peterem ex, Eurystheus videt maeonis, Paeonis uritur. Dextera [legem](http://nubibus.net/qualisardeat), contigerat optabile undis bene: abis sperato. Instrumenta arma, subiectas generis non ipsa patres quia magna Messeneque lacrimaeque torva. Aequo crescunt inrequieta feras, diu illa est occupat aequoribus hunc Elpenora tollens vult robore. Finiat priora vulnere nec Nelei fit quae totidemque intibaque iter longo."
+  #  link = "/mission"
+  #  link_text = "Read more"
+  #  weight = 2
+
+  #[[params.slogan_columns]]
+  #  title = "Approach"
+  #  text = "Lorem markdownum in texit! Quoniam ferar tabellis modo! Nam et spatiosumque puellae modo temperiemque mare canentis ministris **populisque** actus flammifera [dicta](http://www.geminoalpino.com/nec-pegason), non neque nutrit [recingunt Phrygiae](http://vitta-telamone.org/cyllenenquearcus.php). Pignoribus Phaestia Chaonis simulacraque viae et genus miratur moenibus tinnitibus ex simul."
+  #  link = "/approach"
+  #  link_text = "Read more"
+  #  weight = 2
+
+  # Selected Publications section.
+  [params.publications_selected]
+    detailed_list = true
+    title = "Selected Publications"
+    subtitle = ""
+
+  # Publications section.
+  # Section will only be displayed if there are publications in `content/publication/`.
+  [params.publications]
+    count = 3
+    detailed_list = false
+    title = "Publications"
+    subtitle = ""
+    str_all = "More Publications"
+
+  # Posts section.
+  # Section will only be displayed if there are posts in `content/post/`.
+  [params.posts]
+    count = 2
+    title = "News"
+    subtitle = ""
+    str_all = "All News"
+    str_read_more = "Read more"
+
+  # Projects section.
+  # Section will only be displayed if there are projects in `content/project/`.
+  [params.projects]
+    title = "Upcoming Events"
+    subtitle = "All seminars take place in the Le Piano Vache bar (8 Rue Laplace, 75005 Paris) and start at 5 pm (see below)."
+    count = 3
+    str_all = "More Events"
+  
+  # Vacancies section
+  # Section will only be displayed if there are valid vacancies in `content/vacancy`
+  [params.vacancies]
+    title = "Vacancies"
+    subtitle = ""
+    count = 3
+    str_all = "More Vacancies"
+
+  # Contact section.
+  [params.contact]
+    enable = true
+    title = "Location and Time"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # Navigation Links
+  #   The weight parameter defines the order that the links will appear in.
+
+  [[menu.main]]
+      name = "Home"
+      url = "/#top"
+      weight = 1
+
+  [[menu.main]] # Research = [Projects, Publications, Blog]
+      name = "All Events"
+      url = "/project"
+      weight = 2
+
+  [[menu.main]] # Research = [Projects, Publications, Blog]
+      name = "About the Event"
+      url = "/about"
+      weight = 3
+
+#      [[menu.main]]
+#        name = "Projects"
+#        url = "/projects"
+#        parent = "research"
+#        weight = 3
+#      [[menu.main]]
+#        name = "Overview"
+#        url = "/overview"
+#        parent = "research"
+#        weight = 1
+#      [[menu.main]]
+#        name = "People"
+#        url = "/member"
+#        parent = "research"
+#        weight = 2
+  [[menu.main]]
+    name = "Organizers"
+    url = "/organizers"
+    weight = 4
+
+
+#    [[menu.main]]
+#      name = "Projects"
+#      url = "/#projects"
+#     weight = 0
+
+
+#  [[menu.main]]
+#      name = "News"
+#      url = "/post"
+#      weight = 4
+
+
+  [[menu.main]]
+      name = "Location and Time"
+      url = "/#contact"
+      weight = 6

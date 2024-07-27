@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Neural Network Night</title>
+    <link>http://localhost:1313/post/</link>
+    <description>Recent content in Posts on Neural Network Night</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 15:50:58 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>http://localhost:1313/post/about/</link>
+      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
+      <guid>http://localhost:1313/post/about/</guid>
+      <description>An IJulia Preview This notebook is a preview demo of IJulia: a Julia-language backend combined with the IPython interactive environment. This combination allows you to interact with the Julia language using IPython&amp;rsquo;s powerful graphical notebook, which combines code, formatted text, math, and multimedia in a single document.&#xA;Note: this is a preview, because it relies on pre-release bleeding-edge versions of Julia, IPython, and several Julia packages, as explained on the IJulia github page, and functionality is evolving rapidly.</description>
+    </item>
+  </channel>
+</rss>
