@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Members on Neural Network Night</title>
+    <link>http://localhost:1313/member/</link>
+    <description>Recent content in Members on Neural Network Night</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
+    <lastBuildDate>Tue, 12 Jul 2016 15:52:22 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/member/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Alex Cayco Gajic</title>
+      <link>http://localhost:1313/member/alex/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>http://localhost:1313/member/alex/</guid>
+      <description>I am a Junior Professor in the Departement D’Etudes Cognitives at ENS. My formal training lies squarely in applied mathematics, and I completed my PhD under the supervision of Eric Shea Brown at the University of Washington. Throughout my PhD I became increasingly interested in neuroscience, and wanted to learn more about the kinds of questions that were important to experimental neuroscientists. For my postdoc, I decided to join Angus Silver’s Angus Silver&amp;rsquo;s lab at UCL, where I began to focus on the cerebellar circuit while working closely with the experimentalists in his team.</description>
+    </item>
+    <item>
+      <title>Heike Stein</title>
+      <link>http://localhost:1313/member/heike/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>http://localhost:1313/member/heike/</guid>
+      <description>Since 2020, I am a postdoc with Alex Cayco Gajic at the Group for Neural Theory. Before that, I obtained my PhD from the Universitat de Barcelona, Spain, where I worked with Albert Compte to understand how NMDA receptor dysfunction affects working memory by altering prefrontal attractor dynamics.&#xA;In my postdoc, I am diving into the fields of motor learning and naturalistic behavior, the cerebellum, and how the cerebellum interacts with the neocortex to guide behavior and learning.</description>
+    </item>
+    <item>
+      <title>Helen Todd</title>
+      <link>http://localhost:1313/member/helen/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>http://localhost:1313/member/helen/</guid>
+      <description>I am currently doing a PhD under the co-supervision of Boris Gutkin and Alex Cayco-Gajic at ENS Paris. My thesis focuses on modelling rapid synchronisation of interneurons in the cerebellum.</description>
+    </item>
+    <item>
+      <title>Mattia Della Vecchia</title>
+      <link>http://localhost:1313/member/mattia/</link>
+      <pubDate>Tue, 12 Jul 2016 15:52:22 +0200</pubDate>
+      <guid>http://localhost:1313/member/mattia/</guid>
+      <description>I am a PhD student at the Group for Neural Theory at Ecole Normale Supérieure in Paris . I have interests at the interface of Computational Neuroscience and Artificial Intelligence.&#xA;I performed my bachelor internship in the laboratory of Luca Berdondini at Italian Institute of Technology on large-scale neural recordings, spike sorting, and clustering. My master thesis focused on stochastic gradient descent methods for training recurrent neural networks inspired by biological findings under the supervision of Vincent Hakim at LPENS.</description>
+    </item>
+    <item>
+      <title>Hugo Ninou</title>
+      <link>http://localhost:1313/member/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/hugo/</guid>
+      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris under the joint supervision of Alex Cayco Gajic and Jonathan Kadmon.&#xA;My work focuses on the dynamics of learning in biologically plausible neural networks. I&amp;rsquo;m particularly interested in the Hebbian dynamics of learning, its involvement in representational drift and potential applications to AI systems.</description>
+    </item>
+    <item>
+      <title>Leonardo Agueci</title>
+      <link>http://localhost:1313/member/leo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/member/leo/</guid>
+      <description>I am a Ph.D. in the Group for Neural Theory at ENS in Paris. I am currently working on probing the cerebello-cortical loop during motor learning and behavior through mMachine learning and mathematical techniques. Previously, I was a research assistant in the group of Andrea Calimera, EDA, Politecnico di Torino, working in machine learning techniques application on predictive maintenance in the MADEin4 and R3-PowerUP european projects, and on development of neural network properties verification algorithms.</description>
+    </item>
+  </channel>
+</rss>

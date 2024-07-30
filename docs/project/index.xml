@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Neural Network Night</title>
+    <link>http://localhost:1313/project/</link>
+    <description>Recent content in Projects on Neural Network Night</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
+    <lastBuildDate>Thu, 23 Jan 2025 18:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sep 6th, 2024 - Guy Bouvier</title>
+      <link>http://localhost:1313/project/guybouvier/</link>
+      <pubDate>Fri, 06 Sep 2024 16:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/project/guybouvier/</guid>
+      <description>Institut des Neurosciences Paris‑Saclay&#xA;Title of Guy&amp;rsquo;s talks Abstract to appear here.</description>
+    </item>
+    <item>
+      <title>Oct 4th, 2024 - Charlotte Le Mouel</title>
+      <link>http://localhost:1313/project/charlottelemouel/</link>
+      <pubDate>Fri, 04 Oct 2024 16:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/project/charlottelemouel/</guid>
+      <description>Institut Systèmes Intelligents et de Robotique - ISIR&#xA;Title of Charlotte&amp;rsquo;s talk to be announced Abstract will appear here.</description>
+    </item>
+    <item>
+      <title>Nov 8th, 2024 - Jérémie Barral</title>
+      <link>http://localhost:1313/project/jeremiebarral/</link>
+      <pubDate>Fri, 08 Nov 2024 16:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/project/jeremiebarral/</guid>
+      <description>Institut de l&amp;rsquo;Audition&#xA;Title of Jérémie&amp;rsquo;s talk to be announced Abstract will appear here.</description>
+    </item>
+    <item>
+      <title>Dec 13th, 2024 - Sophie Bagur</title>
+      <link>http://localhost:1313/project/sophiebagur/</link>
+      <pubDate>Fri, 13 Dec 2024 16:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/project/sophiebagur/</guid>
+      <description>ESPCI Paris&#xA;Title to be announced Abstract will appear here.</description>
+    </item>
+    <item>
+      <title>Jan 10th, 2025 - Jean-Rémi King</title>
+      <link>http://localhost:1313/project/jean-remiking/</link>
+      <pubDate>Thu, 23 Jan 2025 18:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/project/jean-remiking/</guid>
+      <description>École Normale Supérieure, Meta AI&#xA;Title of Jean-Rémi talk to be announced Abstract will appear here.</description>
+    </item>
+    <item>
+      <title>July 12th, 2024 - Gabrielle Girardeau</title>
+      <link>http://localhost:1313/project/gabriellegirardeau/</link>
+      <pubDate>Fri, 12 Jul 2024 16:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/project/gabriellegirardeau/</guid>
+      <description>Institut du Fer-à-Moulin&#xA;Neural mechanisms for emotional memory processing during sleep The gradual reinforcement of memories, called “consolidation”, is a process occurring partially during sleep and mediated by various patterns of coordinated neural activity. The formation of contextualized emotional memories involves a large network of structures, among which the hippocampus and the baso-lateral amygdala (BLA) are central. In the dorsal hippocampus, fast oscillations (sharp-wave ripples) during non-REM sleep mediate the consolidation of spatial memories through the reactivation of place cell activity.</description>
+    </item>
+    <item>
+      <title>May 31st, 2024 - Matthew Chalk</title>
+      <link>http://localhost:1313/project/matthewchalk/</link>
+      <pubDate>Fri, 31 May 2024 16:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/project/matthewchalk/</guid>
+      <description>Vision Institute&#xA;Predicting visual neural responses: can we make better use of less data? How do sensory neurons respond to our surroundings? To answer this, we can train deep neural network models on recorded visual neuron responses (e.g., to presented movies/images), to predict responses to new stimuli. Performance is often limited by the data: the longer the recordings, the better the predictions; with short recordings, current models often fail. This is a problem since experiments are hard, and data often limited.</description>
+    </item>
+  </channel>
+</rss>
