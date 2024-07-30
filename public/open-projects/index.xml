@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Open-Projects on Neural Network Night</title>
+    <link>http://localhost:1313/open-projects/</link>
+    <description>Recent content in Open-Projects on Neural Network Night</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
+    <lastBuildDate>Sun, 23 Jun 2024 16:00:00 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/open-projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Oct 4th, 2024 - Charlotte Le Mouel</title>
+      <link>http://localhost:1313/open-projects/charlottelemouel2/</link>
+      <pubDate>Sun, 23 Jun 2024 16:00:00 +0100</pubDate>
+      <guid>http://localhost:1313/open-projects/charlottelemouel2/</guid>
+      <description>Title of Charlotte&amp;rsquo;s talk to be announced Abstract will appear here.</description>
+    </item>
+  </channel>
+</rss>

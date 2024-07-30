@@ -10,11 +10,11 @@
     <lastBuildDate>Tue, 12 Jul 2016 15:50:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jupyter Notebook</title>
-      <link>http://localhost:1313/post/about/</link>
+      <title></title>
+      <link>http://localhost:1313/post/my-first-post2/</link>
       <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/about/</guid>
-      <description>An IJulia Preview This notebook is a preview demo of IJulia: a Julia-language backend combined with the IPython interactive environment. This combination allows you to interact with the Julia language using IPython&amp;rsquo;s powerful graphical notebook, which combines code, formatted text, math, and multimedia in a single document.&#xA;Note: this is a preview, because it relies on pre-release bleeding-edge versions of Julia, IPython, and several Julia packages, as explained on the IJulia github page, and functionality is evolving rapidly.</description>
+      <guid>http://localhost:1313/post/my-first-post2/</guid>
+      <description>Neural Networking Night Neural Networking Night establishes a platform for regular interactions and dialogue within the Ile-de-France Systems and Computational Neuroscience community. We propose an innovative and engaging project where a scientific seminar meets social interaction, the “Neural Networking Night”: Elevate the understanding of the brain in a social setting at a Neuroscience Seminar in “Le Piano Vache” pub (8 Rue Laplace, 75005 Paris), an iconic student pub in the academic 5th arrondissement.</description>
     </item>
   </channel>
 </rss>

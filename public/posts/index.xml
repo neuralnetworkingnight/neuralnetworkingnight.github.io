@@ -7,7 +7,14 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Tue, 12 Jul 2016 15:50:58 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jupyter Notebook</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>Neural Networking Night (NNN) establishes a platform for regular interactions and dialogue within the Ile-de-France Systems and Computational Neuroscience community. We propose an innovative and engaging project where a scientific seminar meets social interaction, the “Neural Networking Night”: Elevate the understanding of the brain in a social setting at a Neuroscience Seminar in “Le Piano Vache” pub (8 Rue Laplace, 75005 Paris), an iconic student pub in the academic 5th arrondissement.</description>
+    </item>
   </channel>
 </rss>

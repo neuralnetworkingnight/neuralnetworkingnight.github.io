@@ -1,6 +1,7 @@
 publishdir = "public"
 static = "/static"
 builddrafts = false
+buildFuture = true
 # Replace this with your website URL
 baseurl = "https://neuralnetworkingnight.github.io/"
 canonifyurls = true
@@ -11,17 +12,19 @@ math = true
 copyright = "&copy; Neural Networking Night, 2024 "
 
 [taxonomies]
-category = "categories"
-tag = "tags"
+  category = "categories"
+  tag = "tags"
 
+[params.meta]
+  favicon = true
 
 [params]
   description = "Website of the Neural Networking Night seminar series in a pub"
   author = "Michael Graupner"
-  #email = "michael.graupner@u-paris.fr"
+  email = "neuralnetworkingnight@listes.u-paris.fr"
   address = "Le Piano Vache, <a href='https://maps.app.goo.gl/JuB9ZnnEf1F9dSsk8'>8 Rue Laplace, 75005 Paris</a>"
   slogan = "Neural Networking Night"
-  textbox = "The _Neural Networking Night_ is held at the iconic student pub “Le Piano Vache” (8 Rue Laplace, 75005 Paris), located in the academic heart of Paris. Seminars take place on _Fridays at 5pm_ and are followed by time for informal conversations and socializing. By combining the rigor of scientific discussion with the relaxed atmosphere of a pub, we hope to create an engaging environment that encourages the dissemination of preliminary results, and that sparks conversations potentially leading to future collaborations."
+  textbox = "The _Neural Networking Night_ is held at the iconic student pub “Le Piano Vache” (8 Rue Laplace, 75005 Paris), located in the academic heart of Paris. Seminars take place on _Fridays at 5 pm_ and are followed by time for informal conversations and socializing. Write an email to <a href=\"mailto:sympa@listes.u-paris.fr?subject=subscribe%20neuralnetworkingnight@listes.u-paris.fr\">sympa@listes.u-paris.fr</a> with the subject _subscribe neuralnetworkingnight@listes.u-paris.fr_ if you want to be added to our mailing list."
   #slogan_text = "Re-evaluating the role of the Cerebellum "
   #slogan_icon = "icon-spsbrats_logo"
   custom_css = ["neuralnetworkingnight.css"]
@@ -97,9 +100,10 @@ tag = "tags"
   # Section will only be displayed if there are posts in `content/post/`.
   [params.posts]
     count = 2
-    title = "News"
+    detailed_list = true
+    title = "About the event"
     subtitle = ""
-    str_all = "All News"
+    #str_all = "More Posts"
     str_read_more = "Read more"
 
   # Projects section.
@@ -112,16 +116,23 @@ tag = "tags"
   
   # Vacancies section
   # Section will only be displayed if there are valid vacancies in `content/vacancy`
-  [params.vacancies]
-    title = "Vacancies"
-    subtitle = ""
-    count = 3
-    str_all = "More Vacancies"
+  #[params.vacancies]
+  #  title = "Vacancies"
+  #  subtitle = ""
+  #  count = 3
+  #  str_all = "More Vacancies"
 
   # Contact section.
   [params.contact]
     enable = true
     title = "Location and Time"
+    subtitle = ""
+    autolink = false  # Automatically link email and phone?
+
+  # About section.
+  [params.about]
+    enable = true
+    title = "About the Event"
     subtitle = ""
     autolink = false  # Automatically link email and phone?
 
@@ -139,10 +150,15 @@ tag = "tags"
       weight = 2
 
   [[menu.main]] # Research = [Projects, Publications, Blog]
-      name = "About the Event"
-      url = "/about"
+      name = "About the event"
+      url = "/#posts"
       weight = 3
 
+#  [[menu.main]] # Research = [Projects, Publications, Blog]
+#      name = "About the Event"
+#      url = "/about"
+#      weight = 4
+#
 #      [[menu.main]]
 #        name = "Projects"
 #        url = "/projects"
@@ -161,7 +177,7 @@ tag = "tags"
   [[menu.main]]
     name = "Organizers"
     url = "/organizers"
-    weight = 4
+    weight = 5
 
 
 #    [[menu.main]]
@@ -179,4 +195,4 @@ tag = "tags"
   [[menu.main]]
       name = "Location and Time"
       url = "/#contact"
-      weight = 6
+      weight = 4

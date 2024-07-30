@@ -1,12 +1,10 @@
-# Cayco Gajic Lab website content
+# Neural Networking Night website content
 
 
-This repository contains all the content necessary for proper rendering of Cayco Gajic Lab group 
-[website](https://caycogajiclab.github.io).
+This repository contains all the content necessary for proper rendering of [Neural Networking Night](https://neuralnetworkingnight.github.io) website.
 
 
-- If you want to make **_minor, not accident-prone changes_**, you should login with your personal GitHub account and 
-   directly edit the respective markdown in https://github.com/caycogajiclab/website (download a temporary version 
+- If you want to make **_minor, not accident-prone changes_**, you should login with your personal GitHub account and    directly edit the respective markdown in https://github.com/caycogajiclab/website (download a temporary version 
    before editing though)
 
 - If you want to make **_major changes_**, locally install the repo (see **Local repo installation**) and use
