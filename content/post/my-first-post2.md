@@ -1,6 +1,6 @@
  +++
 date = "2016-07-12T15:50:58+02:00"
-short_text = "Neural Networking Night aims to establish a platform for regular interactions and dialogue within the Ile-de-France Systems and Computational Neuroscience community. It proposes an innovative and engaging project where a scientific seminar meets social interaction: Elevate the understanding of the brain in a social setting at a Neuroscience Seminar in “Le Piano Vache” pub. By combining the rigor of scientific discussion with the relaxed atmosphere of a pub, it aims to create an engaging environment that encourages the dissemination of preliminary results, and that sparks conversations potentially leading to future collaborations."
+short_text = "Neural Networking Night provides a platform for regular interactions and dialogue within the Ile-de-France Systems and Computational Neuroscience community. It proposes an innovative and engaging setting where a scientific seminar meets social interaction: Elevate the understanding of the brain in a social setting at a Neuroscience Seminar in “Le Piano Vache” pub. By combining the rigor of scientific discussion with the relaxed atmosphere of a pub, it aims to create an engaging environment that encourages the dissemination of preliminary results, and that sparks conversations potentially leading to future collaborations."
 title = ""
 sort_position = 1
 [[authors]]
