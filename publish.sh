@@ -8,10 +8,10 @@
 
 BUILDPATH=$PWD
 
-#cd $BUILDPATH/themes/hugo-academic-group
-#git checkout main
-#git pull
-#cd $BUILDPATH
+cd $BUILDPATH/themes/hugo-academic-group
+git checkout main
+git pull
+cd $BUILDPATH
 
 git pull
 
