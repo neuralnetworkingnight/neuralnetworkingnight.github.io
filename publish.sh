@@ -13,6 +13,8 @@ BUILDPATH=$PWD
 #git pull
 #cd $BUILDPATH
 
+git pull
+
 rm -f -r $BUILDPATH/public/*
 
 hugo -t hugo-academic-group
