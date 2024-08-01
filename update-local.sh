@@ -8,6 +8,6 @@ echo "Updating the hugo theme"
 
 cd ./themes/hugo-academic-group
 
- git pull
+git pull
 
 echo "Done."
