@@ -54,7 +54,7 @@ Everytime you want to apply changes to the repo, please follow the following ins
 - (First time ONLY): create a local version of the repository (follow ___Local repo installation___);
 - within the main folder, run `make update-local`;
 - apply changes to any file in the repo, apart from the ___theme___ folder;
-- for a preview of the changes, run `make preview` (it should automatically open it on the browser; if not, in the 	terminal it will show the link to use, usually http://localhost:34557/ )
+- for a preview of the changes, run `make preview` (it should automatically open it on the browser; if not, in the 	terminal it will show the link to use, usually http://localhost:1313/ )
 - run `make upload-repo`, for saving changes on GitHub;
 - enter the commit message, describing what you modified. PLEASE BE CLEAR AND EXHAUSTIVE: if some changes will break the website, it will help (you and the others) understanding the origin of the problem  
 
