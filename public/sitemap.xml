@@ -2,106 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://neuralnetworkingnight.github.io/project/guybouvier/</loc>
+    <loc>http://localhost:1313/project/guybouvier/</loc>
     <lastmod>2024-09-06T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/project/charlottelemouel/</loc>
+    <loc>http://localhost:1313/project/charlottelemouel/</loc>
     <lastmod>2024-10-04T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/project/jeremiebarral/</loc>
+    <loc>http://localhost:1313/project/jeremiebarral/</loc>
     <lastmod>2024-11-08T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/project/sophiebagur/</loc>
+    <loc>http://localhost:1313/project/sophiebagur/</loc>
     <lastmod>2024-12-13T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/project/jean-remiking/</loc>
+    <loc>http://localhost:1313/project/jean-remiking/</loc>
     <lastmod>2025-01-23T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/project/gabriellegirardeau/</loc>
+    <loc>http://localhost:1313/project/gabriellegirardeau/</loc>
     <lastmod>2024-07-12T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/project/matthewchalk/</loc>
+    <loc>http://localhost:1313/project/matthewchalk/</loc>
     <lastmod>2024-05-31T16:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-01-23T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/project/</loc>
+    <loc>http://localhost:1313/project/</loc>
     <lastmod>2025-01-23T18:00:00+01:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/slicetca/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/</loc>
-    <lastmod>2024-05-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/mli-neural-mass/</loc>
-    <lastmod>2024-02-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/signaturesoflearningreview/</loc>
-    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/loco-reach/</loc>
-    <lastmod>2023-11-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/ltr-rnn/</loc>
-    <lastmod>2023-08-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/journal-club/</loc>
-    <lastmod>2021-07-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/granule-cells/</loc>
-    <lastmod>2021-06-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/pattern-separation/</loc>
-    <lastmod>2019-02-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/research/</loc>
-    <lastmod>2018-07-19T08:50:58+02:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/research/starter-guide/</loc>
-    <lastmod>2018-07-19T08:50:58+02:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/publication/sparse-connectivity/</loc>
-    <lastmod>2017-10-24T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/member/alex/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/member/heike/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/member/helen/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/member/mattia/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/member/</loc>
-    <lastmod>2016-07-12T15:52:22+02:00</lastmod>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/post/my-first-post2/</loc>
+    <loc>http://localhost:1313/post/my-first-post2/</loc>
     <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2016-07-12T15:50:58+02:00</lastmod>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/vacancy/vacancy1/</loc>
+    <loc>http://localhost:1313/vacancy/vacancy1/</loc>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/member/hugo/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/member/leo/</loc>
+    <loc>http://localhost:1313/organizers/</loc>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/tags/</loc>
+    <loc>http://localhost:1313/about/</loc>
   </url><url>
-    <loc>https://neuralnetworkingnight.github.io/organizers/</loc>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/overview/</loc>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/about/</loc>
-  </url><url>
-    <loc>https://neuralnetworkingnight.github.io/vacancy/</loc>
+    <loc>http://localhost:1313/vacancy/</loc>
   </url>
 </urlset>

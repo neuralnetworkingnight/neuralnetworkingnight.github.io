@@ -3,28 +3,21 @@
 
 This repository contains all the content necessary for proper rendering of [Neural Networking Night](https://neuralnetworkingnight.github.io) website.
 
+If you want to make **_minor, not accident-prone changes_**, you should login with your personal GitHub account and  directly edit the respective markdown in https://github.com/neuralnetworkingnight/neuralnetworkingnight.github.io . 
 
-- If you want to make **_minor, not accident-prone changes_**, you should login with your personal GitHub account and    directly edit the respective markdown in https://github.com/caycogajiclab/website (download a temporary version 
-   before editing though)
-
-- If you want to make **_major changes_**, locally install the repo (see **Local repo installation**) and use
-   `make <command>` (see **# Modify content & Obtain previews**).
-
-- If you want to apply structural changes to the repo (e.g. changing the Makefile or its related scripts), PLEASE CONTACT THE PEOPLE IN CHARGE OF THE WEBSITE BEFORE, since these can break the repo.
-
+If you want to make **_major changes_**, locally install the repo (see **Local repo installation**) and use  `make <command>` (see **# Modify content & Obtain previews** below).
 
 # Local repo installation
 
 Execute the following commands, REPLACING " < path-to-folder > " with the one you prefer:
 
 ```
-git clone git@github.com:caycogajiclab/website.git <path-to-folder>
+git clone git@github.com:neuralnetworkingnight/neuralnetworkingnight.github.io.git <path-to-folder>
 cd <path-to-folder>
 make setup
 ```
 <br>
-Note: `make setup` works only on Mac and Linux. In other cases, or if you encounter issues, manually install 
-dependencies following setup.sh.
+Note: `make setup` works only on Mac and Linux. In other cases, or if you encounter issues, manually install dependencies following setup.sh.
 
 
 # Update local repo (IMPORTANT)
@@ -51,8 +44,7 @@ All repo management can be easily handled using `make` commands, that can be cal
 
 ## If you only want to make minor (text etc.) changes without the terminal
 
-You can directly edit markdown files (.md) on the GitHub repository in your browser, without needing to pull and push 
-the code. If you want to make more complex modifications, follow the instructions below.
+You can directly edit markdown files (.md) on the GitHub repository in your browser, without needing to pull and push the code. If you want to make more complex modifications, follow the instructions below.
 
 ## Modifying content and update repo
 
@@ -62,11 +54,9 @@ Everytime you want to apply changes to the repo, please follow the following ins
 - (First time ONLY): create a local version of the repository (follow ___Local repo installation___);
 - within the main folder, run `make update-local`;
 - apply changes to any file in the repo, apart from the ___theme___ folder;
-- for a preview of the changes, run `make preview` (it should automatically open it on the browser; if not, in the 
-	terminal it will show the link to use, usually http://localhost:34557/ )
+- for a preview of the changes, run `make preview` (it should automatically open it on the browser; if not, in the 	terminal it will show the link to use, usually http://localhost:34557/ )
 - run `make upload-repo`, for saving changes on GitHub;
-- enter the commit message, describing what you modified. PLEASE BE CLEAR AND EXHAUSTIVE: if some changes will 
-	break the website, it will help (you and the others) understanding the origin of the problem  
+- enter the commit message, describing what you modified. PLEASE BE CLEAR AND EXHAUSTIVE: if some changes will break the website, it will help (you and the others) understanding the origin of the problem  
 
 ## Publishing local changes
 
