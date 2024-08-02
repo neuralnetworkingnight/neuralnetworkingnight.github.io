@@ -4,81 +4,160 @@
 <div class="container">
     <div class="row">
         <div class="col-md-12">
-            <h1>Neural Networking Night seminars</h1>
+            <h1>Neural Networking Night Seminars</h1>
 
-            {{ range .Data.Pages.GroupByDate "2006" }}
+            <!-- Link to Past Events Section -->
+            <a href="#past-events" class="btn btn-primary">Go to Past Events</a>
+
+            <!-- Upcoming Events Section -->
+            <h2>Upcoming Events</h2>
+            {{ $upcoming := slice }}
+            {{ $past := slice }}
+
+            <!-- Group events into upcoming and past -->
+            {{ range .Data.Pages.ByDate }}
+                {{ if lt (time.Now) (.Date) }}
+                    {{ $upcoming = $upcoming | append . }}
+                {{ else }}
+                    {{ $past = $past | append . }}
+                {{ end }}
+            {{ end }}
+
+            <!-- Display Upcoming Events -->
+            {{ range $upcoming }}
             <div class="row" id="pub_list">
                 <div class="col-md-2">
-                    <h3>{{ .Key }}</h3>
+                    <h3>{{ .Date.Format "Jan 2, 2006" }}</h3>
                 </div>
                 <div class="col-md-10">
-                    {{ range .Pages.ByDate.Reverse }}
-                        {{ $isOld := lt .Params.date (now.Unix) }} <!-- Check if the date is older than the curren-->
-                        <div class="row" style="{{ if $isOld }}color: gray;{{ end }}">
-                              <div class="hidden-xs col-md-2">
-                                  <a href={{.Permalink}}>
-                                      {{ if .Params.picture }}
-                                          <div class="project-picture" itemprop="image" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Params.picture }}')"></div>
-                                      {{ else }}
-                                          <div class="project-picture"></div>
-                                      {{ end }}
-                                  </a>
-                              </div>
-
-                              <div class="visible-xs col-xs-5">
-                                  <a href={{.Permalink}}>
-                                      {{ if .Params.picture }}
-                                          <div class="project-picture" itemprop="image" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Params.picture }}')"></div>
-                                      {{ else }}
-                                          <div class="project-picture"></div>
-                                      {{ end }}
-                                  </a>
-                              </div>
-
-                              <div class="article-list-item">
-
-                                  <div class="col-xs-7 col-md-10">
-                                      {{ if .Content }}
-                                          <h3 class="article-title" itemprop="name">
-                                              <a href="{{ .Permalink }}" style="{{ if $isOld }}color: gray;{{ end }}" itemprop="url">{{ .Title}}</a>
-                                          </h3>
-                                      {{ else }}
-                                          {{ with .Params.external_link }}
-                                          <h3 class="article-title" itemprop="name">
-                                              <a href="{{ . }}">
-                                          </h3>
-                                          {{ end }}
-                                      {{ end }}
-                                  </div>
-
-                                  <div class="col-xs-12 col-md-10">
-                                      {{ if .Params.image }}
-                                          <a href="{{ .Permalink }}">
-                                              <img src="{{ $.Site.BaseURL }}/img/{{ .Params.image }}" class="article-banner" itemprop="image">
-                                          </a>
-                                      {{end}}
-
-                                      {{ if .Params.short_description }}
-                                          <p class="article-style" itemprop="articleBody">
-                                              {{ .Params.short_description | markdownify}}
-                                          </p>
-                                      {{ else }}
-                                          {{ with .Params.description }}
-                                          <p class="article-style" itemprop="articleBody">
-                                              {{ . | markdownify}}
-                                          </p>
-                                          {{ end }}
-                                      {{ end }}
-
-                                      <p class="read-more">
-                                          <a href="{{ .Permalink }}" class="btn btn-primary btn-outline">
-                                              {{ with .Site.Params.posts.str_read_more }}{{ . | markdownify }}{{ end }}
-                                          </a>
-                                      </p>
-                                  </div>
-                              </div>
+                    <div class="row">
+                        <div class="hidden-xs col-md-2">
+                            <a href="{{ .Permalink }}">
+                                {{ if .Params.picture }}
+                                    <div class="project-picture" itemprop="image" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Params.picture }}')"></div>
+                                {{ else }}
+                                    <div class="project-picture"></div>
+                                {{ end }}
+                            </a>
+                        </div>
+                        <div class="visible-xs col-xs-5">
+                            <a href="{{ .Permalink }}">
+                                {{ if .Params.picture }}
+                                    <div class="project-picture" itemprop="image" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Params.picture }}')"></div>
+                                {{ else }}
+                                    <div class="project-picture"></div>
+                                {{ end }}
+                            </a>
+                        </div>
+                        <div class="article-list-item">
+                            <div class="col-xs-7 col-md-10">
+                                {{ if .Content }}
+                                    <h3 class="article-title" itemprop="name">
+                                        <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
+                                    </h3>
+                                {{ else }}
+                                    {{ with .Params.external_link }}
+                                    <h3 class="article-title" itemprop="name">
+                                        <a href="{{ . }}">
+                                    </h3>
+                                    {{ end }}
+                                {{ end }}
                             </div>
-                        {{ end }}
+                            <div class="col-xs-12 col-md-10">
+                                {{ if .Params.image }}
+                                    <a href="{{ .Permalink }}">
+                                        <img src="{{ $.Site.BaseURL }}/img/{{ .Params.image }}" class="article-banner" itemprop="image">
+                                    </a>
+                                {{ end }}
+                                {{ if .Params.short_description }}
+                                    <p class="article-style" itemprop="articleBody">
+                                        {{ .Params.short_description | markdownify }}
+                                    </p>
+                                {{ else }}
+                                    {{ with .Params.description }}
+                                    <p class="article-style" itemprop="articleBody">
+                                        {{ . | markdownify }}
+                                    </p>
+                                    {{ end }}
+                                {{ end }}
+                                <p class="read-more">
+                                    <a href="{{ .Permalink }}" class="btn btn-primary btn-outline">
+                                        {{ with .Site.Params.posts.str_read_more }}{{ . | markdownify }}{{ end }}
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+
+            <!-- Past Events Section -->
+            <h2 id="past-events">Past Events</h2>
+            {{ range $past }}
+            <div class="row" id="pub_list">
+                <div class="col-md-2">
+                    <h3>{{ .Date.Format "Jan 2, 2006" }}</h3>
+                </div>
+                <div class="col-md-10">
+                    <div class="row">
+                        <div class="hidden-xs col-md-2">
+                            <a href="{{ .Permalink }}">
+                                {{ if .Params.picture }}
+                                    <div class="project-picture" itemprop="image" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Params.picture }}')"></div>
+                                {{ else }}
+                                    <div class="project-picture"></div>
+                                {{ end }}
+                            </a>
+                        </div>
+                        <div class="visible-xs col-xs-5">
+                            <a href="{{ .Permalink }}">
+                                {{ if .Params.picture }}
+                                    <div class="project-picture" itemprop="image" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Params.picture }}')"></div>
+                                {{ else }}
+                                    <div class="project-picture"></div>
+                                {{ end }}
+                            </a>
+                        </div>
+                        <div class="article-list-item">
+                            <div class="col-xs-7 col-md-10">
+                                {{ if .Content }}
+                                    <h3 class="article-title" itemprop="name">
+                                        <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
+                                    </h3>
+                                {{ else }}
+                                    {{ with .Params.external_link }}
+                                    <h3 class="article-title" itemprop="name">
+                                        <a href="{{ . }}">
+                                    </h3>
+                                    {{ end }}
+                                {{ end }}
+                            </div>
+                            <div class="col-xs-12 col-md-10">
+                                {{ if .Params.image }}
+                                    <a href="{{ .Permalink }}">
+                                        <img src="{{ $.Site.BaseURL }}/img/{{ .Params.image }}" class="article-banner" itemprop="image">
+                                    </a>
+                                {{ end }}
+                                {{ if .Params.short_description }}
+                                    <p class="article-style" itemprop="articleBody">
+                                        {{ .Params.short_description | markdownify }}
+                                    </p>
+                                {{ else }}
+                                    {{ with .Params.description }}
+                                    <p class="article-style" itemprop="articleBody">
+                                        {{ . | markdownify }}
+                                    </p>
+                                    {{ end }}
+                                {{ end }}
+                                <p class="read-more">
+                                    <a href="{{ .Permalink }}" class="btn btn-primary btn-outline">
+                                        {{ with .Site.Params.posts.str_read_more }}{{ . | markdownify }}{{ end }}
+                                    </a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
                 </div>
             </div>
             {{ end }}
@@ -86,6 +165,7 @@
         </div>
     </div>
 </div>
+
 
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
