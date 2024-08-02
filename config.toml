@@ -24,7 +24,7 @@ copyright = "&copy; Neural Networking Night, 2024 "
   email = "neuralnetworkingnight@listes.u-paris.fr"
   address = "Le Piano Vache, <a href='https://maps.app.goo.gl/JuB9ZnnEf1F9dSsk8'>8 Rue Laplace, 75005 Paris</a>"
   slogan = "Neural Networking Night"
-  textbox = "The _Neural Networking Night_ is held at the iconic student pub “Le Piano Vache” (8 Rue Laplace, 75005 Paris), located in the academic heart of Paris. Seminars take place on __Fridays at 5 pm__ and are followed by time for informal conversations and socializing. Write an email to <a href=\"mailto:sympa@listes.u-paris.fr?subject=subscribe%20neuralnetworkingnight@listes.u-paris.fr\">sympa@listes.u-paris.fr</a> with the subject _subscribe neuralnetworkingnight@listes.u-paris.fr_ if you want to be added to our mailing list."
+  textbox = "The _Neural Networking Night_ is held at the iconic student pub __Le Piano Vache__ (8 Rue Laplace, 75005 Paris), located in the academic heart of Paris. Seminars take place on __Fridays at 5 pm__ and are followed by time for informal conversations and socializing. \n Write an email to <a href=\"mailto:sympa@listes.u-paris.fr?subject=subscribe%20neuralnetworkingnight@listes.u-paris.fr\">sympa@listes.u-paris.fr</a> with the subject _subscribe neuralnetworkingnight@listes.u-paris.fr_ if you want to be added to our mailing list."
   #slogan_text = "Re-evaluating the role of the Cerebellum "
   #slogan_icon = "icon-spsbrats_logo"
   custom_css = ["neuralnetworkingnight.css"]
@@ -110,7 +110,7 @@ copyright = "&copy; Neural Networking Night, 2024 "
   # Section will only be displayed if there are projects in `content/project/`.
   [params.projects]
     title = "Upcoming Events"
-    subtitle = "All seminars take place in the Le Piano Vache bar (8 Rue Laplace, 75005 Paris) and start at 5 pm (see below)."
+    subtitle = "All seminars take place in the __Le Piano Vache bar__ (8 Rue Laplace, 75005 Paris) and start at __5 pm__ (see below)."
     count = 3
     str_all = "More Events"
   
