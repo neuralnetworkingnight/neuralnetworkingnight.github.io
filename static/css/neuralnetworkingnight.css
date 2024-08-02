@@ -20,12 +20,16 @@
 
 header{
     background-image: url("/img/nnn_2.jpg");
-    background-size: cover;
+    /*max-width: 100%;*/
+    width:auto;
+    height:auto;
+    /*background: #ffffff;*/
+    /*background-repeat: no-repeat;*/
     text-align: center;
     color: #fff;
     background-position: center;
-    min-height: 40%;
-    min-width: 90%; 
+    /*min-height: 40%;*/
+    /*min-width: 90%; */
 }
 
 .header-content {
