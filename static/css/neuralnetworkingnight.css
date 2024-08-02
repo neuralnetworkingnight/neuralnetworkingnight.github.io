@@ -29,9 +29,9 @@ header{
 }
 
 .header-content {
-    position: relative;
+    /*position: relative;*/
     width: 100%;
-    padding: 350px 155px;
+    padding: 350px 0px;
 }
 
 .header-content .header-content-inner h1 {
