@@ -8,7 +8,7 @@
 
 
         {{ with .Params.external_link }}<a class="btn btn-primary btn-outline" href="{{ . }}">Go to Speaker's Site</a>{{ end }}
-      <div class="hidden-xs col-md-3">
+      <div class="col-md-3">
           <a href={{.Permalink}}>
               {{ if .Params.picture }}
                   <div class="project-picture" itemprop="image" style="background-image: url('{{ .Site.BaseURL }}/img/{{ .Params.picture }}')"></div>
