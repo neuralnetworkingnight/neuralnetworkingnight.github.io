@@ -20,22 +20,19 @@
 
 header{
     background-image: url("/img/nnn_2.jpg");
-    /*max-width: 100%;*/
-    width:auto;
-    height:auto;
-    /*background: #ffffff;*/
-    /*background-repeat: no-repeat;*/
-    /*text-align: center;*/
-    /*color: #fff;*/
-    /*background-position: center;*/
-    /*min-height: 40%;*/
-    /*min-width: 90%; */
+    background-size: cover;
+    text-align: center;
+    color: #fff;
+    background-position: center;
+    min-height: 40%;
+    min-width: 90%;
 }
 
 .header-content {
-    position: relative;
-    width: 100%;
-    padding: 350px 155px;
+    /*position: relative;*/
+    /*width: 100%;*/
+    /*padding: 350px 155px;*/
+    padding: 0;
 }
 
 .header-content .header-content-inner h1 {
