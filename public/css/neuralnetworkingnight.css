@@ -24,42 +24,42 @@ header{
     text-align: center;
     color: #fff;
     background-position: center;
-    min-height: 90%;
+    min-height: 95%;
     min-width: 90%;
 }
 
 .header-content {
-    /*position: relative;*/
-    /*width: 100%;*/
-    /*padding: 350px 155px;*/
-    padding: 0;
+    position: relative;
+    width: 100%;
+    padding: 350px 155px;
 }
 
-/*.header-content .header-content-inner h1 {*/
-/*    margin-top: 0;*/
-/*    margin-bottom: 0;*/
-/*    font-weight: 700;*/
-/*}*/
+.header-content .header-content-inner h1 {
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: 700;
+}
 
-/*.header-content .header-content-inner hr {*/
-/*    margin: 30px auto;*/
-/*}*/
+.header-content .header-content-inner hr {
+    margin: 30px auto;
+}
 
-/*.header-content .header-content-inner p.slogan-text {*/
-/*    font-size: 34px;*/
-/*    padding: 45px 0px 25px 0px;*/
-/*}*/
+.header-content .header-content-inner p.slogan-text {
+    font-size: 34px;
+    padding: 45px 0px 25px 0px;
+}
 
-/*.header-content .header-content-inner p {*/
-/*    margin-bottom: 50px;*/
-/*    font-size: 16px;*/
-/*    font-weight: 300;*/
-/*    color: rgba(255,255,255,.7);*/
-/*}*/
+.header-content .header-content-inner p {
+    margin-bottom: 50px;
+    font-size: 16px;
+    font-weight: 300;
+    color: rgba(255,255,255,.7);
+}
 
-/*.slogan-column {*/
-/*    text-align: "";*/
-/*}*/
+.slogan-column {
+    text-align: "";
+}
+
 
 
 .row:after,
