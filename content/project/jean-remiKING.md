@@ -7,6 +7,7 @@ project_id = "1"
 weight = 5
 short_description = "Title to be announced."
 title = "Jan 10th, 2025 - Jean-Rémi King"
+draft = 1
 [[participants]]
     name = "Member 1"
     is_member = true
