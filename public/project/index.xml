@@ -28,7 +28,7 @@
       <link>https://neuralnetworkingnight.github.io/project/jeremiebarral/</link>
       <pubDate>Fri, 08 Nov 2024 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/jeremiebarral/</guid>
-      <description>Institut de l&amp;rsquo;Audition&#xA;Title of Jérémie&amp;rsquo;s talk to be announced Abstract will appear here.</description>
+      <description>Institut de l&amp;rsquo;Audition&#xA;Feedforward propagation along the mouse auditory pathway How spikes propagate along multiple layer networks has been extensively studied with computational models. Feedforward networks are a prominent model able to transmit information rapidly, but these networks have been difficult to isolate in the intact mammalian brain. Here, we focus on the auditory network which is characterized by multiple connected relays. We used sound and optogenetic stimulations to drive the auditory periphery and monitored neuronal activity at two locations along the auditory pathway simultaneously, using large-scale electrophysiological recordings.</description>
     </item>
     <item>
       <title>Dec 13th, 2024 - Sophie Bagur</title>
