@@ -5,7 +5,7 @@ external_link = "https://ens-paris-saclay.fr/lecole/prix-et-distinctions/enseign
 picture = "/speakers/CharlotteLeMouel.jpg"
 project_id = "1"
 weight = 2
-short_description = "Title to be announced."
+short_description = "Sensorimotor coordination of balance"
 title = "Oct 4th, 2024 - Charlotte Le Mouel"
 [[participants]]
     name = "Member 1"
@@ -14,7 +14,8 @@ title = "Oct 4th, 2024 - Charlotte Le Mouel"
 +++
 _Institut Systèmes Intelligents et de Robotique - ISIR_
 
-## Title of Charlotte's talk to be announced 
+## Sensorimotor coordination of balance 
 
-Abstract will appear here. 
+The agility of humans and other animals relies on their ability to maintain balance during movement. This is a complex task requiring the integration of neurophysiology and biomechanics. In this talk, I show that young healthy adults use simple control strategies to maintain balance during standing and walking. Moreover, when standing and walking on the hands, gymnasts employ the same biomechanical strategies for balance. This however requires the nervous system to adapt both sensory integration and motor coordination. An inability to adjust the sensorimotor coordination may lead to the balance impairments seen in a variety of neurological conditions. 
+
 
