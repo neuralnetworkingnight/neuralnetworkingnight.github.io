@@ -28,6 +28,8 @@ copyright = "&copy; Neural Networking Night, 2024 "
   #slogan_text = "Re-evaluating the role of the Cerebellum "
   #slogan_icon = "icon-spsbrats_logo"
   custom_css = ["neuralnetworkingnight.css"]
+  gtm_id = "G-P6PPEWJE9S"
+  gtm_ga = true
 
 [params.logo]
     image = "img/sponsors/dim-cbrains-small.png"
