@@ -1,7 +1,7 @@
 +++
 date = "2024-11-08T16:00:00+01:00"
 description = "This is the description"
-external_link = "https://neuropsi.cnrs.fr/annuaire/guy-bouvier/"
+external_link = "https://www.barral-lab.org/"
 picture = "/speakers/JeremieBarral.jpg"
 project_id = "3"
 weight = 3
