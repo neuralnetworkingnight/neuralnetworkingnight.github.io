@@ -11,7 +11,7 @@ It emerged from _SysNeuroDrinks_ or _Laboiratoire_, which was created by Alex an
 
 _SysNeuroDrinks/Laboiratoire_ was further developped with input from Brice Bathellier, Jean-Baptiste Masson and Srdjan Ostojic to become _Neural Networking Night_ in September 2024. The gathering was extended by a one-hour seminar, forming the scaffolding for more specific scientific discussions that take place informally after the seminars. The event takes place henceforth at Le Piano Vache bar (8 Rue Laplace, 75005 Paris), where we can rent a dedicated room perfectly suited for the seminar. By combining the scientific and social events, we hope to retain seminar attendees to circulate in these informal discussions, thereby having a wider reach on the Île-de-France-based neuroscience network.
 
-In June 2024, _Neural Networking Night_ received financial support from [DIM C-BRAINS](https://dim-cbrains.fr/fr/home) for the 2024/25 seminar cycle for rental and basic gatering. 
+In June 2024, _Neural Networking Night_ received financial support from [DIM C-BRAINS](https://dim-cbrains.fr/fr/home) for the 2024/25 seminar cycle for rental and basic catering. 
 
 ### And for what aim?
 
