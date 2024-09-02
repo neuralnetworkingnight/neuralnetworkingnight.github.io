@@ -1,7 +1,9 @@
 # Neural Networking Night website content
 
 
-This repository contains all the content necessary for proper rendering of [Neural Networking Night](https://neuralnetworkingnight.github.io) website.
+This repository contains all the content necessary for proper rendering of [Neural Networking Night](https://neuralnetworkingnight.github.io) website. 
+
+The website has been inspired by the web presence of the [BIASlab](https://biaslab.github.io/) and is based on the [Hugo](https://gohugo.io/) framework to build websites. 
 
 If you want to make **_minor, not accident-prone changes_**, you should login with your personal GitHub account and  directly edit the respective markdown in https://github.com/neuralnetworkingnight/neuralnetworkingnight.github.io . 
 
