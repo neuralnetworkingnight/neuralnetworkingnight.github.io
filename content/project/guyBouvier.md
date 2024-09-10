@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://neuropsi.cnrs.fr/annuaire/guy-bouvier/"
 picture = "/speakers/GuyBouvier.jpg"
 project_id = "1"
-weight = 1
+weight = 10
 short_description = "The Mouse Primary Visual Cortex: Where Vision Meets Motion"
 title = "Sep 6th, 2024 - Guy Bouvier"
 [[participants]]

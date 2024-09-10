@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://www.bio.espci.fr/Sophie-Bagur-306"
 picture = "/speakers/SophieBagur.png"
 project_id = "3"
-weight = 4
+weight = 3
 short_description = "Title to be announced."
 title = "Dec 13th, 2024 - Sophie Bagur"
 [[participants]]

@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 10 Jan 2025 16:00:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sep 6th, 2024 - Guy Bouvier</title>
-      <link>https://neuralnetworkingnight.github.io/project/guybouvier/</link>
-      <pubDate>Fri, 06 Sep 2024 16:00:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/guybouvier/</guid>
-      <description>Institut des Neurosciences Paris‑Saclay&#xA;The Mouse Primary Visual Cortex: Where Vision Meets Motion Many of the sensory organs that enable us to perceive the world around us are located on our head, for example, the eyes. To accurately represent our surroundings, sensory systems in the brain must combine their primary source of sensory information, e.g. visual signals, with information about head movements in space. The vestibular organs, located in the inner ear, provide this information by transforming head motion into neural signals.</description>
-    </item>
-    <item>
       <title>Oct 4th, 2024 - Charlotte Le Mouel</title>
       <link>https://neuralnetworkingnight.github.io/project/charlottelemouel/</link>
       <pubDate>Fri, 04 Oct 2024 16:00:00 +0100</pubDate>
@@ -43,6 +36,13 @@
       <pubDate>Fri, 10 Jan 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/jean-remiking/</guid>
       <description>École Normale Supérieure, Meta AI&#xA;Title of Jean-Rémi talk to be announced Abstract will appear here.</description>
+    </item>
+    <item>
+      <title>Sep 6th, 2024 - Guy Bouvier</title>
+      <link>https://neuralnetworkingnight.github.io/project/guybouvier/</link>
+      <pubDate>Fri, 06 Sep 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/guybouvier/</guid>
+      <description>Institut des Neurosciences Paris‑Saclay&#xA;The Mouse Primary Visual Cortex: Where Vision Meets Motion Many of the sensory organs that enable us to perceive the world around us are located on our head, for example, the eyes. To accurately represent our surroundings, sensory systems in the brain must combine their primary source of sensory information, e.g. visual signals, with information about head movements in space. The vestibular organs, located in the inner ear, provide this information by transforming head motion into neural signals.</description>
     </item>
     <item>
       <title>July 12th, 2024 - Gabrielle Girardeau</title>

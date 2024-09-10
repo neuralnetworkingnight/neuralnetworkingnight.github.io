@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://kingjr.github.io/"
 picture = "/speakers/JeanRemiKing.jpeg"
 project_id = "1"
-weight = 5
+weight = 4
 short_description = "Title to be announced."
 title = "Jan 10th, 2025 - Jean-Rémi King"
 [[participants]]
