@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
-    <lastBuildDate>Fri, 13 Dec 2024 16:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 16:00:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sep 6th, 2024 - Guy Bouvier</title>
@@ -36,6 +36,13 @@
       <pubDate>Fri, 13 Dec 2024 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/sophiebagur/</guid>
       <description>ESPCI Paris&#xA;Title to be announced Abstract will appear here.</description>
+    </item>
+    <item>
+      <title>Jan 10th, 2025 - Jean-Rémi King</title>
+      <link>https://neuralnetworkingnight.github.io/project/jean-remiking/</link>
+      <pubDate>Fri, 10 Jan 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/jean-remiking/</guid>
+      <description>École Normale Supérieure, Meta AI&#xA;Title of Jean-Rémi talk to be announced Abstract will appear here.</description>
     </item>
     <item>
       <title>July 12th, 2024 - Gabrielle Girardeau</title>
