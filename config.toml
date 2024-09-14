@@ -31,10 +31,10 @@ copyright = "&copy; Neural Networking Night, 2024 "
   gtm_id = "G-P6PPEWJE9S"
   gtm_ga = true
 
-#[params.logo]
-#    image = "img/sponsors/dim-cbrains-small.png"
-#    link = "https://dim-cbrains.fr/fr/home"
-#    position = 1
+[params.logo]
+    image = "img/logo-NNN.png"
+    link = "https://neuralnetworkingnight.github.io/"
+    position = 1
 
 #[[params.navbar_hierarchy]]
 #    name = "DEC"
