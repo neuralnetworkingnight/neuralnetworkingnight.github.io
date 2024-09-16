@@ -32,7 +32,7 @@ copyright = "&copy; Neural Networking Night, 2024 "
   gtm_ga = true
 
 [params.logo]
-    image = "img/logo-NNN_small.png"
+    image = "img/logo-NNN_small2.png"
     link = "https://neuralnetworkingnight.github.io/"
     position = 1
 
