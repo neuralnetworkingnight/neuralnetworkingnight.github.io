@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 07 Feb 2025 16:00:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Oct 4th, 2024 - Charlotte Le Mouel</title>
-      <link>https://neuralnetworkingnight.github.io/project/charlottelemouel/</link>
-      <pubDate>Fri, 04 Oct 2024 16:00:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/charlottelemouel/</guid>
-      <description>Institut Systèmes Intelligents et de Robotique - ISIR&#xA;Sensorimotor coordination of balance The agility of humans and other animals relies on their ability to maintain balance during movement. This is a complex task requiring the integration of neurophysiology and biomechanics. In this talk, I show that young healthy adults use simple control strategies to maintain balance during standing and walking. Moreover, when standing and walking on the hands, gymnasts employ the same biomechanical strategies for balance.</description>
-    </item>
-    <item>
       <title>Nov 8th, 2024 - Jérémie Barral</title>
       <link>https://neuralnetworkingnight.github.io/project/jeremiebarral/</link>
       <pubDate>Fri, 08 Nov 2024 16:00:00 +0100</pubDate>
@@ -64,6 +57,13 @@
       <pubDate>Fri, 31 May 2024 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/matthewchalk/</guid>
       <description>Vision Institute&#xA;Predicting visual neural responses: can we make better use of less data? How do sensory neurons respond to our surroundings? To answer this, we can train deep neural network models on recorded visual neuron responses (e.g., to presented movies/images), to predict responses to new stimuli. Performance is often limited by the data: the longer the recordings, the better the predictions; with short recordings, current models often fail. This is a problem since experiments are hard, and data often limited.</description>
+    </item>
+    <item>
+      <title>Oct 4th, 2024 - Charlotte Le Mouel</title>
+      <link>https://neuralnetworkingnight.github.io/project/charlottelemouel/</link>
+      <pubDate>Fri, 04 Oct 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/charlottelemouel/</guid>
+      <description>Institut Systèmes Intelligents et de Robotique - ISIR&#xA;Sensorimotor coordination of balance The agility of humans and other animals relies on their ability to maintain balance during movement. This is a complex task requiring the integration of neurophysiology and biomechanics. In this talk, I show that young healthy adults use simple control strategies to maintain balance during standing and walking. Moreover, when standing and walking on the hands, gymnasts employ the same biomechanical strategies for balance.</description>
     </item>
     <item>
       <title></title>

@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://ens-paris-saclay.fr/lecole/prix-et-distinctions/enseignants-chercheurs/charlotte-le-mouel"
 picture = "/speakers/CharlotteLeMouel.jpg"
 project_id = "1"
-weight = 1
+weight = 11
 short_description = "Sensorimotor coordination of balance"
 title = "Oct 4th, 2024 - Charlotte Le Mouel"
 [[participants]]
