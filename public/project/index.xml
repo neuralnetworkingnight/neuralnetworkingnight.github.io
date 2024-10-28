@@ -4,7 +4,7 @@
     <title>Projects on Neural Network Night</title>
     <link>https://neuralnetworkingnight.github.io/project/</link>
     <description>Recent content in Projects on Neural Network Night</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
     <lastBuildDate>Fri, 07 Feb 2025 16:00:00 +0100</lastBuildDate>
@@ -35,7 +35,7 @@
       <link>https://neuralnetworkingnight.github.io/project/lauradugue/</link>
       <pubDate>Fri, 07 Feb 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/lauradugue/</guid>
-      <description>INCC, Université Paris Cité&#xA;Title of Laura&amp;rsquo;s talk to be announced Abstract will appear here.</description>
+      <description>INCC, Université Paris Cité&#xA;Traveling Waves in Human Brain Neural oscillations have been observed across scales, species and recording methods. Recently, researchers have focused on their spatial organization across the cortex. Traveling Waves patterns, specifically, correspond to monotonic phase shifts in the direction of signal propagation and appear to play a role in cognitive functions. Identifying spatio-temporally consistent patterns, however, in non-invasively obtained human data (EEG or MEG recordings) poses significant technical challenges, such as source summation, volume conduction, and low signal-to-noise ratios, which complicate the interpretation of cortical activity from surface sensor measurements.</description>
     </item>
     <item>
       <title>Sep 6th, 2024 - Guy Bouvier</title>
