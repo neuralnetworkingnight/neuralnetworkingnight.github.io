@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://www.barral-lab.org/"
 picture = "/speakers/JeremieBarral.jpg"
 project_id = "3"
-weight = 2
+weight = 12
 short_description = "Feedforward propagation along the mouse auditory pathway"
 title = "Nov 8th, 2024 - Jérémie Barral"
 [[participants]]

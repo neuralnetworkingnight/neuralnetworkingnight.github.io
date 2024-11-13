@@ -7,15 +7,8 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
-    <lastBuildDate>Fri, 07 Feb 2025 16:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 04 Jul 2025 16:00:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/project/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Nov 8th, 2024 - Jérémie Barral</title>
-      <link>https://neuralnetworkingnight.github.io/project/jeremiebarral/</link>
-      <pubDate>Fri, 08 Nov 2024 16:00:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/jeremiebarral/</guid>
-      <description>Institut de l&amp;rsquo;Audition&#xA;Feedforward propagation along the mouse auditory pathway How spikes propagate along multiple layer networks has been extensively studied with computational models. Feedforward networks are a prominent model able to transmit information rapidly, but these networks have been difficult to isolate in the intact mammalian brain. Here, we focus on the auditory network which is characterized by multiple connected relays. We used sound and optogenetic stimulations to drive the auditory periphery and monitored neuronal activity at two locations along the auditory pathway simultaneously, using large-scale electrophysiological recordings.</description>
-    </item>
     <item>
       <title>Dec 13th, 2024 - Sophie Bagur</title>
       <link>https://neuralnetworkingnight.github.io/project/sophiebagur/</link>
@@ -36,6 +29,41 @@
       <pubDate>Fri, 07 Feb 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/lauradugue/</guid>
       <description>INCC, Université Paris Cité&#xA;Traveling Waves in Human Brain Neural oscillations have been observed across scales, species and recording methods. Recently, researchers have focused on their spatial organization across the cortex. Traveling Waves patterns, specifically, correspond to monotonic phase shifts in the direction of signal propagation and appear to play a role in cognitive functions. Identifying spatio-temporally consistent patterns, however, in non-invasively obtained human data (EEG or MEG recordings) poses significant technical challenges, such as source summation, volume conduction, and low signal-to-noise ratios, which complicate the interpretation of cortical activity from surface sensor measurements.</description>
+    </item>
+    <item>
+      <title>Mar 7th, 2025 - Kathleen Cho</title>
+      <link>https://neuralnetworkingnight.github.io/project/kathleencho/</link>
+      <pubDate>Fri, 07 Mar 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/kathleencho/</guid>
+      <description>Institut du Cerveau, ICM&#xA;Title to be announced </description>
+    </item>
+    <item>
+      <title>Apr 4th, 2025 - Fanny Koukouli</title>
+      <link>https://neuralnetworkingnight.github.io/project/fannykoukouli/</link>
+      <pubDate>Fri, 04 Apr 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/fannykoukouli/</guid>
+      <description>Institut de Psychiatrie et Neurosciences Paris, IPNP&#xA;Title to be announced </description>
+    </item>
+    <item>
+      <title>May 2nd, 2025 - Sebastien Wolf</title>
+      <link>https://neuralnetworkingnight.github.io/project/sebastienwolf/</link>
+      <pubDate>Fri, 02 May 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/sebastienwolf/</guid>
+      <description>ENS&#xA;Title to be announced </description>
+    </item>
+    <item>
+      <title>Jun 13th, 2025 - Jean-Baptiste Masson</title>
+      <link>https://neuralnetworkingnight.github.io/project/jeanbaptistemasson/</link>
+      <pubDate>Fri, 13 Jun 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/jeanbaptistemasson/</guid>
+      <description>Institut Pasteur&#xA;Embodied neuroAI with drosophila larva Animals are not free-floating neural networks that perform classification tasks. Our body, the temporal continuity of our actions, and our sensory word shape the property and the computing of biological neural networks. Advances in Drosophila genetic manipulation, neural connectomics, and amortised inference (acceleration of the sampling procedure using neural networks) have allowed us to study small neural circuits&amp;rsquo; organisation, structure, and function. We still have a limited understanding of the forces organising small neural circuits.</description>
+    </item>
+    <item>
+      <title>Jul 4th, 2025 - João Barbosa</title>
+      <link>https://neuralnetworkingnight.github.io/project/joaobarbosa/</link>
+      <pubDate>Fri, 04 Jul 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/joaobarbosa/</guid>
+      <description>Institute de Neuromodulation, Sainte-Anne&#xA;Title to be announced </description>
     </item>
     <item>
       <title>Sep 6th, 2024 - Guy Bouvier</title>
@@ -64,6 +92,13 @@
       <pubDate>Fri, 04 Oct 2024 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/charlottelemouel/</guid>
       <description>Institut Systèmes Intelligents et de Robotique - ISIR&#xA;Sensorimotor coordination of balance The agility of humans and other animals relies on their ability to maintain balance during movement. This is a complex task requiring the integration of neurophysiology and biomechanics. In this talk, I show that young healthy adults use simple control strategies to maintain balance during standing and walking. Moreover, when standing and walking on the hands, gymnasts employ the same biomechanical strategies for balance.</description>
+    </item>
+    <item>
+      <title>Nov 8th, 2024 - Jérémie Barral</title>
+      <link>https://neuralnetworkingnight.github.io/project/jeremiebarral/</link>
+      <pubDate>Fri, 08 Nov 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/jeremiebarral/</guid>
+      <description>Institut de l&amp;rsquo;Audition&#xA;Feedforward propagation along the mouse auditory pathway How spikes propagate along multiple layer networks has been extensively studied with computational models. Feedforward networks are a prominent model able to transmit information rapidly, but these networks have been difficult to isolate in the intact mammalian brain. Here, we focus on the auditory network which is characterized by multiple connected relays. We used sound and optogenetic stimulations to drive the auditory periphery and monitored neuronal activity at two locations along the auditory pathway simultaneously, using large-scale electrophysiological recordings.</description>
     </item>
   </channel>
 </rss>
