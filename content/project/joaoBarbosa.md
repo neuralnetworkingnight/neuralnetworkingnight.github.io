@@ -5,7 +5,7 @@ external_link = "https://jbarbosa.org/"
 picture = "/speakers/JoaoBarbosa.png"
 project_id = "1"
 weight = 10
-short_description = "Title to be annonced"
+short_description = "Distributed computations for flexible cognition"
 title = "Jul 4th, 2025 - João Barbosa"
 [[participants]]
     name = "Member 1"
@@ -15,6 +15,6 @@ title = "Jul 4th, 2025 - João Barbosa"
 
 _Institute de Neuromodulation, Sainte-Anne_
 
-## Title to be announced
+## Distributed computations for flexible cognition
 
 
