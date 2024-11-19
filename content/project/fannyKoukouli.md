@@ -6,7 +6,7 @@ picture = "/speakers/FannyKoukouli.jpg"
 project_id = "1"
 weight = 7
 short_description = "Cholinergic modulation of cortical inhibitory circuits and its dysfunction in psychiatric disorders"
-title = "Apr 4th, 2025 - Fanny Koukouli"
+title = "Apr 4th, 2025 - Fani Koukouli"
 [[participants]]
     name = "Member 1"
     is_member = true
