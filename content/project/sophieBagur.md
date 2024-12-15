@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://www.bio.espci.fr/Sophie-Bagur-306"
 picture = "/speakers/SophieBagur.png"
 project_id = "3"
-weight = 3
+weight = 13
 short_description = "The role of bodily feedback in prefrontal regulation of fear states."
 title = "Dec 13th, 2024 - Sophie Bagur"
 [[participants]]
