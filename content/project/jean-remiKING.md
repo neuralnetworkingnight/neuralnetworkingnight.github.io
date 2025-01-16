@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://kingjr.github.io/"
 picture = "/speakers/JeanRemiKing.jpeg"
 project_id = "1"
-weight = 4
+weight = 14
 short_description = "AI and the Brain: the unexpected similarities and the remaining differences"
 title = "Jan 10th, 2025 - Jean-Rémi King"
 [[participants]]
