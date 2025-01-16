@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://ipnp.paris5.inserm.fr/recherche/equipes-et-projets/25-equipe-koukouli"
 picture = "/speakers/FannyKoukouli.jpg"
 project_id = "1"
-weight = 7
+weight = 10
 short_description = "Cholinergic modulation of cortical inhibitory circuits and its dysfunction in psychiatric disorders"
 title = "Jul 4th, 2025 - Fani Koukouli"
 [[participants]]
