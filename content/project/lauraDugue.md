@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://www.duguelab.com/"
 picture = "/speakers/LauraDugue.jpg"
 project_id = "1"
-weight = 5
+weight = 15
 short_description = "Traveling Waves in Human Brain"
 title = "Feb 7th, 2025 - Laura Dugué"
 [[participants]]
