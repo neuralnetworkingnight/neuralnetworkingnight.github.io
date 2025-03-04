@@ -5,7 +5,7 @@ external_link = "https://jbarbosa.org/"
 picture = "/speakers/JoaoBarbosa.png"
 project_id = "1"
 weight = 7
-short_description = "Distributed computations for flexible cognition"
+short_description = "Cognition through distributed computations"
 title = "Apr 4th, 2025 - João Barbosa"
 [[participants]]
     name = "Member 1"
@@ -15,6 +15,7 @@ title = "Apr 4th, 2025 - João Barbosa"
 
 _Institute de Neuromodulation, Sainte-Anne_
 
-## Distributed computations for flexible cognition
+## Cognition through distributed computations
+
 
 
