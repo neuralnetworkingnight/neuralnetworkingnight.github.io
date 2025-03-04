@@ -17,5 +17,5 @@ _Institute de Neuromodulation, Sainte-Anne_
 
 ## Cognition through distributed computations
 
-
+Previous studies focusing on the neurophysiology complex behavior often focus on a single brain region or RNN, despite increasing evidence that information is encoded across the brain. Here, we analyzed neural dynamics across six brain regions of the monkey brain, revealing key differences beyond classical decoding analyses. Using surrogate causal perturbation on multi-regional RNNs trained to reproduce the data, we examined inter-area interactions shaping neural representations. Even without task inputs, frontal regions encoded stimuli and generated response codes. However, blocking across-regional interactions impaired task performance and disrupted global attractor states. Our findings highlight inter-regional communication’s critical role in distributed neural processing.
 

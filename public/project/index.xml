@@ -21,7 +21,7 @@
       <link>https://neuralnetworkingnight.github.io/project/joaobarbosa/</link>
       <pubDate>Fri, 04 Apr 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/joaobarbosa/</guid>
-      <description>Institute de Neuromodulation, Sainte-Anne&#xA;Cognition through distributed computations </description>
+      <description>Institute de Neuromodulation, Sainte-Anne&#xA;Cognition through distributed computations Previous studies focusing on the neurophysiology complex behavior often focus on a single brain region or RNN, despite increasing evidence that information is encoded across the brain. Here, we analyzed neural dynamics across six brain regions of the monkey brain, revealing key differences beyond classical decoding analyses. Using surrogate causal perturbation on multi-regional RNNs trained to reproduce the data, we examined inter-area interactions shaping neural representations.</description>
     </item>
     <item>
       <title>May 2nd, 2025 - Sebastien Wolf</title>
