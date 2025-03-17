@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://parisbraininstitute.org/collaborators/kathleen-cho"
 picture = "/speakers/KathleenCho2.jpg"
 project_id = "1"
-weight = 6
+weight = 16
 short_description = "Prefontal interneuron function in cognitive control"
 title = "Mar 7th, 2025 - Kathleen Cho"
 [[participants]]

@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 04 Jul 2025 16:00:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Mar 7th, 2025 - Kathleen Cho</title>
-      <link>https://neuralnetworkingnight.github.io/project/kathleencho/</link>
-      <pubDate>Fri, 07 Mar 2025 16:00:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/kathleencho/</guid>
-      <description>Institut du Cerveau, ICM&#xA;Prefontal interneuron function in cognitive control Rhythmic neural activity is thought to play a key role in the function of neural circuits, and within the prefrontal cortex (PFC), gamma oscillations have been associated with higher cognitive functions such as attention, memory, and cognitive control. Gamma oscillations in the PFC are mediated by a specific class of inhibitory interneurons that can be identified based on either their fast-spiking electrophysiological properties or expression of calcium-binding protein parvalbumin.</description>
-    </item>
-    <item>
       <title>Apr 4th, 2025 - João Barbosa</title>
       <link>https://neuralnetworkingnight.github.io/project/joaobarbosa/</link>
       <pubDate>Fri, 04 Apr 2025 16:00:00 +0100</pubDate>
@@ -99,6 +92,13 @@
       <pubDate>Fri, 07 Feb 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/lauradugue/</guid>
       <description>INCC, Université Paris Cité&#xA;Traveling Waves in Human Brain Neural oscillations have been observed across scales, species and recording methods. Recently, researchers have focused on their spatial organization across the cortex. Traveling Waves patterns, specifically, correspond to monotonic phase shifts in the direction of signal propagation and appear to play a role in cognitive functions. Identifying spatio-temporally consistent patterns, however, in non-invasively obtained human data (EEG or MEG recordings) poses significant technical challenges, such as source summation, volume conduction, and low signal-to-noise ratios, which complicate the interpretation of cortical activity from surface sensor measurements.</description>
+    </item>
+    <item>
+      <title>Mar 7th, 2025 - Kathleen Cho</title>
+      <link>https://neuralnetworkingnight.github.io/project/kathleencho/</link>
+      <pubDate>Fri, 07 Mar 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/kathleencho/</guid>
+      <description>Institut du Cerveau, ICM&#xA;Prefontal interneuron function in cognitive control Rhythmic neural activity is thought to play a key role in the function of neural circuits, and within the prefrontal cortex (PFC), gamma oscillations have been associated with higher cognitive functions such as attention, memory, and cognitive control. Gamma oscillations in the PFC are mediated by a specific class of inhibitory interneurons that can be identified based on either their fast-spiking electrophysiological properties or expression of calcium-binding protein parvalbumin.</description>
     </item>
   </channel>
 </rss>
