@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 04 Jul 2025 16:00:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apr 4th, 2025 - João Barbosa</title>
-      <link>https://neuralnetworkingnight.github.io/project/joaobarbosa/</link>
-      <pubDate>Fri, 04 Apr 2025 16:00:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/joaobarbosa/</guid>
-      <description>Institute de Neuromodulation, Sainte-Anne&#xA;Cognition through distributed computations Previous studies focusing on the neurophysiology complex behavior often focus on a single brain region or RNN, despite increasing evidence that information is encoded across the brain. Here, we analyzed neural dynamics across six brain regions of the monkey brain, revealing key differences beyond classical decoding analyses. Using surrogate causal perturbation on multi-regional RNNs trained to reproduce the data, we examined inter-area interactions shaping neural representations.</description>
-    </item>
-    <item>
       <title>May 2nd, 2025 - Sebastien Wolf</title>
       <link>https://neuralnetworkingnight.github.io/project/sebastienwolf/</link>
       <pubDate>Fri, 02 May 2025 16:00:00 +0100</pubDate>
@@ -99,6 +92,13 @@
       <pubDate>Fri, 07 Mar 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/kathleencho/</guid>
       <description>Institut du Cerveau, ICM&#xA;Prefontal interneuron function in cognitive control Rhythmic neural activity is thought to play a key role in the function of neural circuits, and within the prefrontal cortex (PFC), gamma oscillations have been associated with higher cognitive functions such as attention, memory, and cognitive control. Gamma oscillations in the PFC are mediated by a specific class of inhibitory interneurons that can be identified based on either their fast-spiking electrophysiological properties or expression of calcium-binding protein parvalbumin.</description>
+    </item>
+    <item>
+      <title>Apr 4th, 2025 - João Barbosa</title>
+      <link>https://neuralnetworkingnight.github.io/project/joaobarbosa/</link>
+      <pubDate>Fri, 04 Apr 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/joaobarbosa/</guid>
+      <description>Institute de Neuromodulation, Sainte-Anne&#xA;Cognition through distributed computations Previous studies focusing on the neurophysiology complex behavior often focus on a single brain region or RNN, despite increasing evidence that information is encoded across the brain. Here, we analyzed neural dynamics across six brain regions of the monkey brain, revealing key differences beyond classical decoding analyses. Using surrogate causal perturbation on multi-regional RNNs trained to reproduce the data, we examined inter-area interactions shaping neural representations.</description>
     </item>
     <item>
       <title></title>

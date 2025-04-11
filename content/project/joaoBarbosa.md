@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://jbarbosa.org/"
 picture = "/speakers/JoaoBarbosa.png"
 project_id = "1"
-weight = 7
+weight = 17
 short_description = "Cognition through distributed computations"
 title = "Apr 4th, 2025 - João Barbosa"
 [[participants]]
