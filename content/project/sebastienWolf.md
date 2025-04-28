@@ -21,8 +21,7 @@ Auditory selective attention is a cognitive ability enabling to adapt the proces
 according to their relevance in a given context. The initial cortical processing of sounds is
 performed in the primary auditory cortex (A1) and it has been shown that attention
 contributes to its reorganization. How this flexibility is accomplished by neural circuits is still
-an open question. To study the neural coding of auditory selective attention, we used two-
-photon imaging in A1 L2/3 of mice performing a sound-discrimination task in different
+an open question. To study the neural coding of auditory selective attention, we used two-photon imaging in A1 L2/3 of mice performing a sound-discrimination task in different
 contexts. We discovered a unique neural population that shows attentional gain, encodes
 behavioral choice, drives the decision of the animal, and displays a ramping activity until the
 reward delivery. To characterize network representation of the context and the decision, we
