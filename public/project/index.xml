@@ -24,13 +24,6 @@
       <description>Institut de Psychiatrie et Neurosciences Paris, IPNP&#xA;Cholinergic modulation of cortical inhibitory circuits and its dysfunction in psychiatric disorders The neocortex is essential for all cognitive functions, facilitated by the complex interplay of neuronal networks formed through synaptic interactions among various neuron types. In this context, inhibitory interneurons play a critical role in coordinating cortical activity. These inhibitory circuits are regulated by a variety of neuromodulators, with acetylcholine standing out for its significant control over cortical dynamics.</description>
     </item>
     <item>
-      <title>July 12th, 2024 - Gabrielle Girardeau</title>
-      <link>https://neuralnetworkingnight.github.io/project/gabriellegirardeau/</link>
-      <pubDate>Fri, 12 Jul 2024 16:00:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/gabriellegirardeau/</guid>
-      <description>Institut du Fer-à-Moulin&#xA;Neural mechanisms for emotional memory processing during sleep The gradual reinforcement of memories, called “consolidation”, is a process occurring partially during sleep and mediated by various patterns of coordinated neural activity. The formation of contextualized emotional memories involves a large network of structures, among which the hippocampus and the baso-lateral amygdala (BLA) are central. In the dorsal hippocampus, fast oscillations (sharp-wave ripples) during non-REM sleep mediate the consolidation of spatial memories through the reactivation of place cell activity.</description>
-    </item>
-    <item>
       <title>May 31st, 2024 - Matthew Chalk</title>
       <link>https://neuralnetworkingnight.github.io/project/matthewchalk/</link>
       <pubDate>Fri, 31 May 2024 16:00:00 +0100</pubDate>
@@ -99,6 +92,13 @@
       <pubDate>Fri, 02 May 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/sebastienwolf/</guid>
       <description>ENS&#xA;Decision-making and attentional processes in the auditory cortex Auditory selective attention is a cognitive ability enabling to adapt the processing of stimuli according to their relevance in a given context. The initial cortical processing of sounds is performed in the primary auditory cortex (A1) and it has been shown that attention contributes to its reorganization. How this flexibility is accomplished by neural circuits is still an open question. To study the neural coding of auditory selective attention, we used two-photon imaging in A1 L2/3 of mice performing a sound-discrimination task in different contexts.</description>
+    </item>
+    <item>
+      <title>July 12th, 2024 - Gabrielle Girardeau</title>
+      <link>https://neuralnetworkingnight.github.io/project/gabriellegirardeau/</link>
+      <pubDate>Fri, 12 Jul 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/gabriellegirardeau/</guid>
+      <description>Institut du Fer-à-Moulin&#xA;Neural mechanisms for emotional memory processing during sleep The gradual reinforcement of memories, called “consolidation”, is a process occurring partially during sleep and mediated by various patterns of coordinated neural activity. The formation of contextualized emotional memories involves a large network of structures, among which the hippocampus and the baso-lateral amygdala (BLA) are central. In the dorsal hippocampus, fast oscillations (sharp-wave ripples) during non-REM sleep mediate the consolidation of spatial memories through the reactivation of place cell activity.</description>
     </item>
   </channel>
 </rss>

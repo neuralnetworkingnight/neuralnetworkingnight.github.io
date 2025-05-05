@@ -4,7 +4,7 @@ description = ""
 external_link = "https://ifm-institute.org/en/equipe/team-girardeau/"
 picture = "/speakers/GabrielleGirardeau.jpeg"
 project_id = "1"
-weight = 10
+weight = 19
 short_description = "Neural mechanisms for emotional memory processing during sleep"
 title = "July 12th, 2024 - Gabrielle Girardeau"
 [[participants]]
