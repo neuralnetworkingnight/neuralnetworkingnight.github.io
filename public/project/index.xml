@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 04 Jul 2025 16:00:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>May 2nd, 2025 - Sebastien Wolf</title>
-      <link>https://neuralnetworkingnight.github.io/project/sebastienwolf/</link>
-      <pubDate>Fri, 02 May 2025 16:00:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/sebastienwolf/</guid>
-      <description>ENS&#xA;Decision-making and attentional processes in the auditory cortex Auditory selective attention is a cognitive ability enabling to adapt the processing of stimuli according to their relevance in a given context. The initial cortical processing of sounds is performed in the primary auditory cortex (A1) and it has been shown that attention contributes to its reorganization. How this flexibility is accomplished by neural circuits is still an open question. To study the neural coding of auditory selective attention, we used two-photon imaging in A1 L2/3 of mice performing a sound-discrimination task in different contexts.</description>
-    </item>
-    <item>
       <title>Jun 13th, 2025 - Jean-Baptiste Masson</title>
       <link>https://neuralnetworkingnight.github.io/project/jeanbaptistemasson/</link>
       <pubDate>Fri, 13 Jun 2025 16:00:00 +0100</pubDate>
@@ -99,6 +92,13 @@
       <pubDate>Fri, 04 Apr 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/joaobarbosa/</guid>
       <description>Institute de Neuromodulation, Sainte-Anne&#xA;Cognition through distributed computations Previous studies focusing on the neurophysiology complex behavior often focus on a single brain region or RNN, despite increasing evidence that information is encoded across the brain. Here, we analyzed neural dynamics across six brain regions of the monkey brain, revealing key differences beyond classical decoding analyses. Using surrogate causal perturbation on multi-regional RNNs trained to reproduce the data, we examined inter-area interactions shaping neural representations.</description>
+    </item>
+    <item>
+      <title>May 2nd, 2025 - Sebastien Wolf</title>
+      <link>https://neuralnetworkingnight.github.io/project/sebastienwolf/</link>
+      <pubDate>Fri, 02 May 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/sebastienwolf/</guid>
+      <description>ENS&#xA;Decision-making and attentional processes in the auditory cortex Auditory selective attention is a cognitive ability enabling to adapt the processing of stimuli according to their relevance in a given context. The initial cortical processing of sounds is performed in the primary auditory cortex (A1) and it has been shown that attention contributes to its reorganization. How this flexibility is accomplished by neural circuits is still an open question. To study the neural coding of auditory selective attention, we used two-photon imaging in A1 L2/3 of mice performing a sound-discrimination task in different contexts.</description>
     </item>
   </channel>
 </rss>

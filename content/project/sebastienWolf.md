@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://scholar.google.com/citations?user=7uMayoEAAAAJ&hl=fr"
 picture = "/speakers/SebastienWolf2.jpeg"
 project_id = "1"
-weight = 8
+weight = 18
 short_description = "Decision-making and attentional processes in the auditory cortex"
 title = "May 2nd, 2025 - Sebastien Wolf"
 [[participants]]
