@@ -2,7 +2,7 @@
 date = "2026-02-06T16:30:00+01:00"
 description = "This is the description"
 external_link = "https://antonioccosta.github.io/"
-picture = "/speakers/AntoniaCosta.png"
+picture = "/speakers/AntonioCosta.png"
 project_id = "3"
 weight = 6
 short_description = "TBA"
