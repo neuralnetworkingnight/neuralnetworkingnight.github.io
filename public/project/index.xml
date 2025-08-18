@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
-    <lastBuildDate>Fri, 07 Nov 2025 16:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 12 Dec 2025 16:30:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sep 12th, 2025 - Sophie Herbst</title>
@@ -29,6 +29,13 @@
       <pubDate>Fri, 07 Nov 2025 16:30:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/gisellavetere/</guid>
       <description>ESPCI&#xA;Title to be announced </description>
+    </item>
+    <item>
+      <title>Dec 12th, 2025 - Vincent Villette</title>
+      <link>https://neuralnetworkingnight.github.io/project/vincentvillette/</link>
+      <pubDate>Fri, 12 Dec 2025 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/vincentvillette/</guid>
+      <description>IBENS, ENS, PSL&#xA;Title to be announced </description>
     </item>
     <item>
       <title>Jun 13th, 2025 - Jean-Baptiste Masson</title>
