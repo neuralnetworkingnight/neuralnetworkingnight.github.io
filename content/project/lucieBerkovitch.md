@@ -2,7 +2,7 @@
 date = "2025-10-03T16:30:00+01:00"
 description = "This is the description"
 external_link = "https://scholar.google.com/citations?user=7ShQRx8AAAAJ&hl=fr"
-picture = "/speakers/lucieBerkovitch.png"
+picture = "/speakers/LucieBerkovitch.png"
 project_id = "3"
 weight = 2
 short_description = "TBA"
