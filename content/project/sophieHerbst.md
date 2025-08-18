@@ -1,5 +1,5 @@
 +++
-date = "2025-09-12T16:00:00+01:00"
+date = "2025-09-12T16:30:00+01:00"
 description = "This is the description"
 external_link = "https://brainthemind.com/sophie-herbst/"
 picture = "/speakers/SophieHerbst.jpg"

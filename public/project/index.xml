@@ -7,14 +7,21 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
-    <lastBuildDate>Fri, 12 Sep 2025 16:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 03 Oct 2025 16:30:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sep 12th, 2025 - Sophie Herbst</title>
       <link>https://neuralnetworkingnight.github.io/project/sophieherbst/</link>
-      <pubDate>Fri, 12 Sep 2025 16:00:00 +0100</pubDate>
+      <pubDate>Fri, 12 Sep 2025 16:30:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/sophieherbst/</guid>
       <description>NeuroSpin Saclay&#xA;Title to be announced </description>
+    </item>
+    <item>
+      <title>Oct 3rd, 2025 - Lucie Berkovitch</title>
+      <link>https://neuralnetworkingnight.github.io/project/lucieberkovitch/</link>
+      <pubDate>Fri, 03 Oct 2025 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/lucieberkovitch/</guid>
+      <description>Université de Paris, GHU Paris Psychiatrie &amp;amp; Neurosciences&#xA;Title to be announced </description>
     </item>
     <item>
       <title>Jun 13th, 2025 - Jean-Baptiste Masson</title>
