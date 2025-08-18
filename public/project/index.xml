@@ -7,7 +7,7 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
-    <lastBuildDate>Fri, 06 Feb 2026 16:30:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 06 Mar 2026 16:30:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sep 12th, 2025 - Sophie Herbst</title>
@@ -50,6 +50,13 @@
       <pubDate>Fri, 06 Feb 2026 16:30:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</guid>
       <description>Department of Physics, ENS, PSL&#xA;Title to be announced </description>
+    </item>
+    <item>
+      <title>Mar 6th, 2026 - Ulisse Ferrari</title>
+      <link>https://neuralnetworkingnight.github.io/project/ulisseferrari/</link>
+      <pubDate>Fri, 06 Mar 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/ulisseferrari/</guid>
+      <description>Institut de la Vision&#xA;Title to be announced </description>
     </item>
     <item>
       <title>Jun 13th, 2025 - Jean-Baptiste Masson</title>
