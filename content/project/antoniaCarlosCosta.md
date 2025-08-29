@@ -6,7 +6,7 @@ picture = "/speakers/AntonioCosta.png"
 project_id = "3"
 weight = 6
 short_description = "TBA"
-title = "Feb 6th, 2026 - Antionio Carlos Costa"
+title = "Feb 6th, 2026 - Antonio Carlos Costa"
 [[participants]]
     name = "Member 1"
     is_member = true
