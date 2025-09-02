@@ -13,6 +13,6 @@ title = "Feb 6th, 2026 - Antonio Carlos Costa"
     id = "member1"
 +++
 
-_Department of Physics, ENS, PSL_
+_ICM_
 
 ## Title to be announced 
