@@ -51,6 +51,11 @@ copyright = "&copy; Neural Networking Night, 2024 "
 #    link = "https://gnt.dec.ens.fr/en"
 #    position = 3
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [[params.sponsors]]
     name = "DIM C-BRAINS"
     link = "https://dim-cbrains.fr/fr/home"
