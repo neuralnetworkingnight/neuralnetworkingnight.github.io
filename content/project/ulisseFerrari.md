@@ -5,7 +5,7 @@ external_link = "https://www.institut-vision.org/index.php/en/researchers/ulisse
 picture = "/speakers/UlisseFerrari.png"
 project_id = "3"
 weight = 7
-short_description = "TBA"
+short_description = "How do neural correlations impact retinal encoding?"
 title = "Mar 6th, 2026 - Ulisse Ferrari"
 [[participants]]
     name = "Member 1"
@@ -15,4 +15,4 @@ title = "Mar 6th, 2026 - Ulisse Ferrari"
 
 _Institut de la Vision_
 
-## Title to be announced 
+## How do neural correlations impact retinal encoding? 
