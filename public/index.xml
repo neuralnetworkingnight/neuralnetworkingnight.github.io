@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 05 Jun 2026 16:30:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Sep 12th, 2025 - Sophie Herbst</title>
-      <link>https://neuralnetworkingnight.github.io/project/sophieherbst/</link>
-      <pubDate>Fri, 12 Sep 2025 16:30:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/sophieherbst/</guid>
-      <description>NeuroSpin Saclay&#xA;WHEN? Representations and consequences of temporal predictions Timing is a fundamental skill the brain uses to integrate information across senses and interact with dynamic environments. Despite its critical relevance, the cognitive and neural mechanisms that process time remain a significant puzzle in cognitive neuroscience. One aspect of this puzzle is implicit timing: the extraction of temporal regularities from sensory environments to form temporal predictions. Temporal predictions knowingly speed up motor and sensory responses, and enhance the sensitivity of the perceptual analysis in the auditory, visual, and tactile modality.</description>
-    </item>
-    <item>
       <title>Oct 3rd, 2025 - Lucie Berkovitch</title>
       <link>https://neuralnetworkingnight.github.io/project/lucieberkovitch/</link>
       <pubDate>Fri, 03 Oct 2025 16:30:00 +0100</pubDate>
@@ -99,6 +92,13 @@
       <pubDate>Fri, 31 May 2024 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/matthewchalk/</guid>
       <description>Vision Institute&#xA;Predicting visual neural responses: can we make better use of less data? How do sensory neurons respond to our surroundings? To answer this, we can train deep neural network models on recorded visual neuron responses (e.g., to presented movies/images), to predict responses to new stimuli. Performance is often limited by the data: the longer the recordings, the better the predictions; with short recordings, current models often fail. This is a problem since experiments are hard, and data often limited.</description>
+    </item>
+    <item>
+      <title>Sep 12th, 2025 - Sophie Herbst</title>
+      <link>https://neuralnetworkingnight.github.io/project/sophieherbst/</link>
+      <pubDate>Fri, 12 Sep 2025 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/sophieherbst/</guid>
+      <description>NeuroSpin Saclay&#xA;WHEN? Representations and consequences of temporal predictions Timing is a fundamental skill the brain uses to integrate information across senses and interact with dynamic environments. Despite its critical relevance, the cognitive and neural mechanisms that process time remain a significant puzzle in cognitive neuroscience. One aspect of this puzzle is implicit timing: the extraction of temporal regularities from sensory environments to form temporal predictions. Temporal predictions knowingly speed up motor and sensory responses, and enhance the sensitivity of the perceptual analysis in the auditory, visual, and tactile modality.</description>
     </item>
     <item>
       <title>Oct 4th, 2024 - Charlotte Le Mouel</title>

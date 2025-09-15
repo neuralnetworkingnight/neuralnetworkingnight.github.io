@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://brainthemind.com/sophie-herbst/"
 picture = "/speakers/SophieHerbst.jpg"
 project_id = "3"
-weight = 1
+weight = 11
 short_description = "WHEN?  Representations and consequences of temporal predictions"
 title = "Sep 12th, 2025 - Sophie Herbst"
 [[participants]]
