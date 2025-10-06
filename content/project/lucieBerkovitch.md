@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://scholar.google.com/citations?user=7ShQRx8AAAAJ&hl=fr"
 picture = "/speakers/LucieBerkovitch.png"
 project_id = "3"
-weight = 2
+weight = 12
 short_description = "Healing psychiatric disorders with psychedelics? A neuroscience perspective"
 title = "Oct 3rd, 2025 - Lucie Berkovitch"
 [[participants]]
