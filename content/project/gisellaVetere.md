@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://www.bio.espci.fr/-Gisella-Vetere-Cerebral-Codes-and-Circuits-Connectivity-"
 picture = "/speakers/GisellaVetere.png"
 project_id = "3"
-weight = 3
+weight = 13
 short_description = "Dissection of a fear memory engram"
 title = "Nov 7th, 2025 - Gisella Vetere"
 [[participants]]
