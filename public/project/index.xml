@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 05 Jun 2026 16:30:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Dec 12th, 2025 - Vincent Villette</title>
-      <link>https://neuralnetworkingnight.github.io/project/vincentvillette/</link>
-      <pubDate>Fri, 12 Dec 2025 16:30:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/vincentvillette/</guid>
-      <description>IBENS, ENS, PSL&#xA;Monitoring neuronal spiking and subthreshold activities in cerebral and cerebellar microcircuits using optical methods in head-fixed behaving mice To understand how information is represented, processed, and propagated in the brain, technologies for recording transmembrane potential in vivo in neuronal populations with high ­fidelity will be essential. Direct cellular voltage imaging in vivo, was limited by the speed and sensitivity of both indicators and imaging modalities. We developed two microscopy techniques (ULoVE1 and 3D-CASH2) enabling the optical recordings of cortical population voltage signal at single cell and high temporal resolution (&amp;gt;2KHz) in awake behaving animal circumventing limitations of classical imaging approaches.</description>
-    </item>
-    <item>
       <title>Jan 9th, 2026 - Claire Sergent</title>
       <link>https://neuralnetworkingnight.github.io/project/clairesergent/</link>
       <pubDate>Fri, 09 Jan 2026 16:30:00 +0100</pubDate>
@@ -127,6 +120,13 @@
       <pubDate>Fri, 13 Dec 2024 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/sophiebagur/</guid>
       <description>ESPCI Paris&#xA;The role of bodily feedback in prefrontal regulation of fear states We have all introspectively sampled the tie between our body and our emotions and multiple lines of evidence demonstrate the tight correlations between brain–body interactions and affective states. However, the question of the specificity and causality of this link has remained unresolved since it was first epitomized by the historical James-Cannon debate. In the past few years, the possibility of manipulating bodily feedback in the mouse has driven insight into the underlying physiological mechanisms from multiple labs [1-3].</description>
+    </item>
+    <item>
+      <title>Dec 12th, 2025 - Vincent Villette</title>
+      <link>https://neuralnetworkingnight.github.io/project/vincentvillette/</link>
+      <pubDate>Fri, 12 Dec 2025 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/vincentvillette/</guid>
+      <description>IBENS, ENS, PSL&#xA;Monitoring neuronal spiking and subthreshold activities in cerebral and cerebellar microcircuits using optical methods in head-fixed behaving mice To understand how information is represented, processed, and propagated in the brain, technologies for recording transmembrane potential in vivo in neuronal populations with high ­fidelity will be essential. Direct cellular voltage imaging in vivo, was limited by the speed and sensitivity of both indicators and imaging modalities. We developed two microscopy techniques (ULoVE1 and 3D-CASH2) enabling the optical recordings of cortical population voltage signal at single cell and high temporal resolution (&amp;gt;2KHz) in awake behaving animal circumventing limitations of classical imaging approaches.</description>
     </item>
     <item>
       <title>Jan 10th, 2025 - Jean-Rémi King</title>
