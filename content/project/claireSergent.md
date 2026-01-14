@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://incc-paris.fr/people/claire-sergent/"
 picture = "/speakers/ClaireSergent.png"
 project_id = "3"
-weight = 5
+weight = 15
 short_description = "Neural dynamics of conscious perception"
 title = "Jan 9th, 2026 - Claire Sergent"
 [[participants]]

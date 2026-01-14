@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 05 Jun 2026 16:30:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Jan 9th, 2026 - Claire Sergent</title>
-      <link>https://neuralnetworkingnight.github.io/project/clairesergent/</link>
-      <pubDate>Fri, 09 Jan 2026 16:30:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/clairesergent/</guid>
-      <description>INCC, Université Paris Cité&#xA;Neural dynamics of conscious perception Even when we are awake, some of the external stimuli that we receive, be they visual, auditory, tactile etc… remain unconscious. What difference does it make in our brain when we perceive a stimulus consciously versus not ? I will present studies using neuroimaging techniques in awake adults that allow us to understand the neural mechanisms associated with conscious versus non conscious perception of the same external stimulus.</description>
-    </item>
-    <item>
       <title>Feb 6th, 2026 - Antonio Carlos Costa</title>
       <link>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</link>
       <pubDate>Fri, 06 Feb 2026 16:30:00 +0100</pubDate>
@@ -134,6 +127,13 @@
       <pubDate>Fri, 10 Jan 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/jean-remiking/</guid>
       <description>École Normale Supérieure, Meta AI&#xA;AI and the Brain: the unexpected similarities and the remaining differences As AI systems now generate plausible texts and images, one may wonder whether these machines process information similarly to us. In this talk, we will discuss how this question is scientifically approached in the new field of &amp;lsquo;Neuro-AI&amp;rsquo;. The experimental results in the past decade highlight unexpected similarities, whereby computer vision algorithms learn to transform images through a hierarchy of representations that map onto the visual hierarchy in our cortex, and where a similar convergence can also be observed with large language models.</description>
+    </item>
+    <item>
+      <title>Jan 9th, 2026 - Claire Sergent</title>
+      <link>https://neuralnetworkingnight.github.io/project/clairesergent/</link>
+      <pubDate>Fri, 09 Jan 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/clairesergent/</guid>
+      <description>INCC, Université Paris Cité&#xA;Neural dynamics of conscious perception Even when we are awake, some of the external stimuli that we receive, be they visual, auditory, tactile etc… remain unconscious. What difference does it make in our brain when we perceive a stimulus consciously versus not ? I will present studies using neuroimaging techniques in awake adults that allow us to understand the neural mechanisms associated with conscious versus non conscious perception of the same external stimulus.</description>
     </item>
     <item>
       <title>Feb 7th, 2025 - Laura Dugué</title>
