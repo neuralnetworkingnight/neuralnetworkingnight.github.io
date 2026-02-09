@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://antonioccosta.github.io/"
 picture = "/speakers/AntonioCosta.png"
 project_id = "3"
-weight = 6
+weight = 16
 short_description = "Unravelling behavioral variability: a data-driven approach"
 title = "Feb 6th, 2026 - Antonio Carlos Costa"
 [[participants]]

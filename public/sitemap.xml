@@ -2,9 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</loc>
-    <lastmod>2026-02-06T16:30:00+01:00</lastmod>
-  </url><url>
     <loc>https://neuralnetworkingnight.github.io/project/ulisseferrari/</loc>
     <lastmod>2026-03-06T16:30:00+01:00</lastmod>
   </url><url>
@@ -58,6 +55,9 @@
   </url><url>
     <loc>https://neuralnetworkingnight.github.io/project/lauradugue/</loc>
     <lastmod>2025-02-07T16:00:00+01:00</lastmod>
+  </url><url>
+    <loc>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</loc>
+    <lastmod>2026-02-06T16:30:00+01:00</lastmod>
   </url><url>
     <loc>https://neuralnetworkingnight.github.io/project/kathleencho/</loc>
     <lastmod>2025-03-07T16:00:00+01:00</lastmod>

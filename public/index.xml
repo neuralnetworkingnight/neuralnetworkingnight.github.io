@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 05 Jun 2026 16:30:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Feb 6th, 2026 - Antonio Carlos Costa</title>
-      <link>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</link>
-      <pubDate>Fri, 06 Feb 2026 16:30:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</guid>
-      <description>ICM&#xA;Unravelling behavioral variability: a data-driven approach Animal behavior varies widely, both within the same individual over time and between individuals. While often overlooked, this variation reflects hidden control variables and mechanisms that were shaped by evolution. For example, variation in behavioral traits can help populations withstand environmental change, while atypical motor patterns in neurological disorders may offer clues for personalized therapies. Comparing such complex behaviors is difficult. When dynamics are nonlinear and unfold over multiple timescales, standard metrics based on summary statistics often miss meaningful differences.</description>
-    </item>
-    <item>
       <title>Mar 6th, 2026 - Ulisse Ferrari</title>
       <link>https://neuralnetworkingnight.github.io/project/ulisseferrari/</link>
       <pubDate>Fri, 06 Mar 2026 16:30:00 +0100</pubDate>
@@ -141,6 +134,13 @@
       <pubDate>Fri, 07 Feb 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/lauradugue/</guid>
       <description>INCC, Université Paris Cité&#xA;Traveling Waves in Human Brain Neural oscillations have been observed across scales, species and recording methods. Recently, researchers have focused on their spatial organization across the cortex. Traveling Waves patterns, specifically, correspond to monotonic phase shifts in the direction of signal propagation and appear to play a role in cognitive functions. Identifying spatio-temporally consistent patterns, however, in non-invasively obtained human data (EEG or MEG recordings) poses significant technical challenges, such as source summation, volume conduction, and low signal-to-noise ratios, which complicate the interpretation of cortical activity from surface sensor measurements.</description>
+    </item>
+    <item>
+      <title>Feb 6th, 2026 - Antonio Carlos Costa</title>
+      <link>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</link>
+      <pubDate>Fri, 06 Feb 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</guid>
+      <description>ICM&#xA;Unravelling behavioral variability: a data-driven approach Animal behavior varies widely, both within the same individual over time and between individuals. While often overlooked, this variation reflects hidden control variables and mechanisms that were shaped by evolution. For example, variation in behavioral traits can help populations withstand environmental change, while atypical motor patterns in neurological disorders may offer clues for personalized therapies. Comparing such complex behaviors is difficult. When dynamics are nonlinear and unfold over multiple timescales, standard metrics based on summary statistics often miss meaningful differences.</description>
     </item>
     <item>
       <title>Mar 7th, 2025 - Kathleen Cho</title>
