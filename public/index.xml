@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Neural Network Night</title>
+    <link>https://neuralnetworkingnight.github.io/</link>
+    <description>Recent content on Neural Network Night</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; Neural Networking Night, 2024 </copyright>
+    <lastBuildDate>Fri, 05 Jun 2026 16:30:00 +0100</lastBuildDate>
+    <atom:link href="https://neuralnetworkingnight.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mar 6th, 2026 - Ulisse Ferrari</title>
+      <link>https://neuralnetworkingnight.github.io/project/ulisseferrari/</link>
+      <pubDate>Fri, 06 Mar 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/ulisseferrari/</guid>
+      <description>Institut de la Vision&#xA;How do neural correlations impact retinal encoding? </description>
+    </item>
+    <item>
+      <title>Apr 10th, 2026 - Jonas Ranft</title>
+      <link>https://neuralnetworkingnight.github.io/project/jonasranft/</link>
+      <pubDate>Fri, 10 Apr 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/jonasranft/</guid>
+      <description>IBENS, ENS, PSL&#xA;Biophysical determinants of synaptic stability and size fluctuations Developmental and activity-dependent modifications of synapses are thought to underlie learning and memory. However, synapses are microscopic structures often containing only tens to hundreds of neurotransmitter receptors responsible for synaptic transmission. As such, they are exposed to strong fluctuations, and an important problem of neuroscience remains to reconcile the molecular fluctuations of synapses with the long-term nature of the memories they encode, requiring a precise understanding of the biophysical mechanisms that govern the accumulation of neurotransmitter receptors at synaptic domains.</description>
+    </item>
+    <item>
+      <title>May 7th, 2026 - Tihana Jovanic</title>
+      <link>https://neuralnetworkingnight.github.io/project/tihanajovanic/</link>
+      <pubDate>Thu, 07 May 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/tihanajovanic/</guid>
+      <description>NeuroPSI, Université Paris-Saclay&#xA;Neural circuit mechanisms of flexible sensorimotor decisions Animals respond to their environment differently depending on the environmental context or their internal state. Thus the implementation of the processes underlying behavioral selection needs to be flexible to allow information about the changes in the environment as well as the information about internal needs to influence the selection of behavior at any given moment. I will in this talk present our work that sheds light on the neural circuit mechanisms underlying the context/state-dependent modulation of sensorimotor decisions at multiple levels from molecules to neural circuits and behavior using Drosophila larva as a model.</description>
+    </item>
+    <item>
+      <title>Jun 13th, 2025 - Jean-Baptiste Masson</title>
+      <link>https://neuralnetworkingnight.github.io/project/jeanbaptistemasson/</link>
+      <pubDate>Fri, 13 Jun 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/jeanbaptistemasson/</guid>
+      <description>Institut Pasteur&#xA;Embodied neuroAI with drosophila larva Animals are not free-floating neural networks that perform classification tasks. Our body, the temporal continuity of our actions, and our sensory word shape the property and the computing of biological neural networks. Advances in Drosophila genetic manipulation, neural connectomics, and amortised inference (acceleration of the sampling procedure using neural networks) have allowed us to study small neural circuits&amp;rsquo; organisation, structure, and function. We still have a limited understanding of the forces organising small neural circuits.</description>
+    </item>
+    <item>
+      <title>Jun 5th, 2026 - Desdemona Fricker</title>
+      <link>https://neuralnetworkingnight.github.io/project/desdemonafricker/</link>
+      <pubDate>Fri, 05 Jun 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/desdemonafricker/</guid>
+      <description>SPPIN, Université Paris Cité&#xA;Title to be announced </description>
+    </item>
+    <item>
+      <title>Jul 4th, 2025 - Fani Koukouli</title>
+      <link>https://neuralnetworkingnight.github.io/project/fannykoukouli/</link>
+      <pubDate>Fri, 04 Jul 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/fannykoukouli/</guid>
+      <description>Institut de Psychiatrie et Neurosciences Paris, IPNP&#xA;Cholinergic modulation of cortical inhibitory circuits and its dysfunction in psychiatric disorders The neocortex is essential for all cognitive functions, facilitated by the complex interplay of neuronal networks formed through synaptic interactions among various neuron types. In this context, inhibitory interneurons play a critical role in coordinating cortical activity. These inhibitory circuits are regulated by a variety of neuromodulators, with acetylcholine standing out for its significant control over cortical dynamics.</description>
+    </item>
+    <item>
+      <title>May 31st, 2024 - Matthew Chalk</title>
+      <link>https://neuralnetworkingnight.github.io/project/matthewchalk/</link>
+      <pubDate>Fri, 31 May 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/matthewchalk/</guid>
+      <description>Vision Institute&#xA;Predicting visual neural responses: can we make better use of less data? How do sensory neurons respond to our surroundings? To answer this, we can train deep neural network models on recorded visual neuron responses (e.g., to presented movies/images), to predict responses to new stimuli. Performance is often limited by the data: the longer the recordings, the better the predictions; with short recordings, current models often fail. This is a problem since experiments are hard, and data often limited.</description>
+    </item>
+    <item>
+      <title>Sep 12th, 2025 - Sophie Herbst</title>
+      <link>https://neuralnetworkingnight.github.io/project/sophieherbst/</link>
+      <pubDate>Fri, 12 Sep 2025 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/sophieherbst/</guid>
+      <description>NeuroSpin Saclay&#xA;WHEN? Representations and consequences of temporal predictions Timing is a fundamental skill the brain uses to integrate information across senses and interact with dynamic environments. Despite its critical relevance, the cognitive and neural mechanisms that process time remain a significant puzzle in cognitive neuroscience. One aspect of this puzzle is implicit timing: the extraction of temporal regularities from sensory environments to form temporal predictions. Temporal predictions knowingly speed up motor and sensory responses, and enhance the sensitivity of the perceptual analysis in the auditory, visual, and tactile modality.</description>
+    </item>
+    <item>
+      <title>Oct 4th, 2024 - Charlotte Le Mouel</title>
+      <link>https://neuralnetworkingnight.github.io/project/charlottelemouel/</link>
+      <pubDate>Fri, 04 Oct 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/charlottelemouel/</guid>
+      <description>Institut Systèmes Intelligents et de Robotique - ISIR&#xA;Sensorimotor coordination of balance The agility of humans and other animals relies on their ability to maintain balance during movement. This is a complex task requiring the integration of neurophysiology and biomechanics. In this talk, I show that young healthy adults use simple control strategies to maintain balance during standing and walking. Moreover, when standing and walking on the hands, gymnasts employ the same biomechanical strategies for balance.</description>
+    </item>
+    <item>
+      <title>Sep 6th, 2024 - Guy Bouvier</title>
+      <link>https://neuralnetworkingnight.github.io/project/guybouvier/</link>
+      <pubDate>Fri, 06 Sep 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/guybouvier/</guid>
+      <description>Institut des Neurosciences Paris‑Saclay&#xA;The Mouse Primary Visual Cortex: Where Vision Meets Motion Many of the sensory organs that enable us to perceive the world around us are located on our head, for example, the eyes. To accurately represent our surroundings, sensory systems in the brain must combine their primary source of sensory information, e.g. visual signals, with information about head movements in space. The vestibular organs, located in the inner ear, provide this information by transforming head motion into neural signals.</description>
+    </item>
+    <item>
+      <title>Oct 3rd, 2025 - Lucie Berkovitch</title>
+      <link>https://neuralnetworkingnight.github.io/project/lucieberkovitch/</link>
+      <pubDate>Fri, 03 Oct 2025 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/lucieberkovitch/</guid>
+      <description>Université de Paris, GHU Paris Psychiatrie &amp;amp; Neurosciences&#xA;Healing psychiatric disorders with psychedelics? A neuroscience perspective Psychedelics are experiencing a renaissance in neuroscience and psychiatry, with growing evidence that these compounds can produce rapid and sustained therapeutic effects across multiple psychiatric disorders. Acting primarily as serotonergic agonists, psychedelics induce profound functional brain alterations while enhancing neuroplasticity. These neural effects translate into clinical benefits, including reductions in anxiety, depression, and addictions. However, challenges remain regarding the respective role of psychotherapy, pharmacological effects and subjective experiences in efficacy.</description>
+    </item>
+    <item>
+      <title>Nov 8th, 2024 - Jérémie Barral</title>
+      <link>https://neuralnetworkingnight.github.io/project/jeremiebarral/</link>
+      <pubDate>Fri, 08 Nov 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/jeremiebarral/</guid>
+      <description>Institut de l&amp;rsquo;Audition&#xA;Feedforward propagation along the mouse auditory pathway How spikes propagate along multiple layer networks has been extensively studied with computational models. Feedforward networks are a prominent model able to transmit information rapidly, but these networks have been difficult to isolate in the intact mammalian brain. Here, we focus on the auditory network which is characterized by multiple connected relays. We used sound and optogenetic stimulations to drive the auditory periphery and monitored neuronal activity at two locations along the auditory pathway simultaneously, using large-scale electrophysiological recordings.</description>
+    </item>
+    <item>
+      <title>Nov 7th, 2025 - Gisella Vetere</title>
+      <link>https://neuralnetworkingnight.github.io/project/gisellavetere/</link>
+      <pubDate>Fri, 07 Nov 2025 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/gisellavetere/</guid>
+      <description>ESPCI&#xA;Dissection of a fear memory engram How does the brain decide which experiences become lasting memories? Understanding how neurons select, encode, and consolidate information is a central question in neuroscience. In my laboratory, we explore how associative memories are formed and stored within neural networks.&#xA;Using cutting-edge techniques to tag neurons based on their calcium activity with unprecedented temporal precision, we uncovered distinct, non-overlapping ensembles of dorsal CA1 neurons that are selectively activated during different phases of fear memory acquisition.</description>
+    </item>
+    <item>
+      <title>Dec 13th, 2024 - Sophie Bagur</title>
+      <link>https://neuralnetworkingnight.github.io/project/sophiebagur/</link>
+      <pubDate>Fri, 13 Dec 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/sophiebagur/</guid>
+      <description>ESPCI Paris&#xA;The role of bodily feedback in prefrontal regulation of fear states We have all introspectively sampled the tie between our body and our emotions and multiple lines of evidence demonstrate the tight correlations between brain–body interactions and affective states. However, the question of the specificity and causality of this link has remained unresolved since it was first epitomized by the historical James-Cannon debate. In the past few years, the possibility of manipulating bodily feedback in the mouse has driven insight into the underlying physiological mechanisms from multiple labs [1-3].</description>
+    </item>
+    <item>
+      <title>Dec 12th, 2025 - Vincent Villette</title>
+      <link>https://neuralnetworkingnight.github.io/project/vincentvillette/</link>
+      <pubDate>Fri, 12 Dec 2025 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/vincentvillette/</guid>
+      <description>IBENS, ENS, PSL&#xA;Monitoring neuronal spiking and subthreshold activities in cerebral and cerebellar microcircuits using optical methods in head-fixed behaving mice To understand how information is represented, processed, and propagated in the brain, technologies for recording transmembrane potential in vivo in neuronal populations with high ­fidelity will be essential. Direct cellular voltage imaging in vivo, was limited by the speed and sensitivity of both indicators and imaging modalities. We developed two microscopy techniques (ULoVE1 and 3D-CASH2) enabling the optical recordings of cortical population voltage signal at single cell and high temporal resolution (&amp;gt;2KHz) in awake behaving animal circumventing limitations of classical imaging approaches.</description>
+    </item>
+    <item>
+      <title>Jan 10th, 2025 - Jean-Rémi King</title>
+      <link>https://neuralnetworkingnight.github.io/project/jean-remiking/</link>
+      <pubDate>Fri, 10 Jan 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/jean-remiking/</guid>
+      <description>École Normale Supérieure, Meta AI&#xA;AI and the Brain: the unexpected similarities and the remaining differences As AI systems now generate plausible texts and images, one may wonder whether these machines process information similarly to us. In this talk, we will discuss how this question is scientifically approached in the new field of &amp;lsquo;Neuro-AI&amp;rsquo;. The experimental results in the past decade highlight unexpected similarities, whereby computer vision algorithms learn to transform images through a hierarchy of representations that map onto the visual hierarchy in our cortex, and where a similar convergence can also be observed with large language models.</description>
+    </item>
+    <item>
+      <title>Jan 9th, 2026 - Claire Sergent</title>
+      <link>https://neuralnetworkingnight.github.io/project/clairesergent/</link>
+      <pubDate>Fri, 09 Jan 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/clairesergent/</guid>
+      <description>INCC, Université Paris Cité&#xA;Neural dynamics of conscious perception Even when we are awake, some of the external stimuli that we receive, be they visual, auditory, tactile etc… remain unconscious. What difference does it make in our brain when we perceive a stimulus consciously versus not ? I will present studies using neuroimaging techniques in awake adults that allow us to understand the neural mechanisms associated with conscious versus non conscious perception of the same external stimulus.</description>
+    </item>
+    <item>
+      <title>Feb 7th, 2025 - Laura Dugué</title>
+      <link>https://neuralnetworkingnight.github.io/project/lauradugue/</link>
+      <pubDate>Fri, 07 Feb 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/lauradugue/</guid>
+      <description>INCC, Université Paris Cité&#xA;Traveling Waves in Human Brain Neural oscillations have been observed across scales, species and recording methods. Recently, researchers have focused on their spatial organization across the cortex. Traveling Waves patterns, specifically, correspond to monotonic phase shifts in the direction of signal propagation and appear to play a role in cognitive functions. Identifying spatio-temporally consistent patterns, however, in non-invasively obtained human data (EEG or MEG recordings) poses significant technical challenges, such as source summation, volume conduction, and low signal-to-noise ratios, which complicate the interpretation of cortical activity from surface sensor measurements.</description>
+    </item>
+    <item>
+      <title>Feb 6th, 2026 - Antonio Carlos Costa</title>
+      <link>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</link>
+      <pubDate>Fri, 06 Feb 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/antoniacarloscosta/</guid>
+      <description>ICM&#xA;Unravelling behavioral variability: a data-driven approach Animal behavior varies widely, both within the same individual over time and between individuals. While often overlooked, this variation reflects hidden control variables and mechanisms that were shaped by evolution. For example, variation in behavioral traits can help populations withstand environmental change, while atypical motor patterns in neurological disorders may offer clues for personalized therapies. Comparing such complex behaviors is difficult. When dynamics are nonlinear and unfold over multiple timescales, standard metrics based on summary statistics often miss meaningful differences.</description>
+    </item>
+    <item>
+      <title>Mar 7th, 2025 - Kathleen Cho</title>
+      <link>https://neuralnetworkingnight.github.io/project/kathleencho/</link>
+      <pubDate>Fri, 07 Mar 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/kathleencho/</guid>
+      <description>Institut du Cerveau, ICM&#xA;Prefontal interneuron function in cognitive control Rhythmic neural activity is thought to play a key role in the function of neural circuits, and within the prefrontal cortex (PFC), gamma oscillations have been associated with higher cognitive functions such as attention, memory, and cognitive control. Gamma oscillations in the PFC are mediated by a specific class of inhibitory interneurons that can be identified based on either their fast-spiking electrophysiological properties or expression of calcium-binding protein parvalbumin.</description>
+    </item>
+    <item>
+      <title>Apr 4th, 2025 - João Barbosa</title>
+      <link>https://neuralnetworkingnight.github.io/project/joaobarbosa/</link>
+      <pubDate>Fri, 04 Apr 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/joaobarbosa/</guid>
+      <description>Institute de Neuromodulation, Sainte-Anne&#xA;Cognition through distributed computations Previous studies focusing on the neurophysiology complex behavior often focus on a single brain region or RNN, despite increasing evidence that information is encoded across the brain. Here, we analyzed neural dynamics across six brain regions of the monkey brain, revealing key differences beyond classical decoding analyses. Using surrogate causal perturbation on multi-regional RNNs trained to reproduce the data, we examined inter-area interactions shaping neural representations.</description>
+    </item>
+    <item>
+      <title>May 2nd, 2025 - Sebastien Wolf</title>
+      <link>https://neuralnetworkingnight.github.io/project/sebastienwolf/</link>
+      <pubDate>Fri, 02 May 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/sebastienwolf/</guid>
+      <description>ENS&#xA;Decision-making and attentional processes in the auditory cortex Auditory selective attention is a cognitive ability enabling to adapt the processing of stimuli according to their relevance in a given context. The initial cortical processing of sounds is performed in the primary auditory cortex (A1) and it has been shown that attention contributes to its reorganization. How this flexibility is accomplished by neural circuits is still an open question. To study the neural coding of auditory selective attention, we used two-photon imaging in A1 L2/3 of mice performing a sound-discrimination task in different contexts.</description>
+    </item>
+    <item>
+      <title>July 12th, 2024 - Gabrielle Girardeau</title>
+      <link>https://neuralnetworkingnight.github.io/project/gabriellegirardeau/</link>
+      <pubDate>Fri, 12 Jul 2024 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/gabriellegirardeau/</guid>
+      <description>Institut du Fer-à-Moulin&#xA;Neural mechanisms for emotional memory processing during sleep The gradual reinforcement of memories, called “consolidation”, is a process occurring partially during sleep and mediated by various patterns of coordinated neural activity. The formation of contextualized emotional memories involves a large network of structures, among which the hippocampus and the baso-lateral amygdala (BLA) are central. In the dorsal hippocampus, fast oscillations (sharp-wave ripples) during non-REM sleep mediate the consolidation of spatial memories through the reactivation of place cell activity.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://neuralnetworkingnight.github.io/post/my-first-post2/</link>
+      <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/post/my-first-post2/</guid>
+      <description>Neural Networking Night Neural Networking Night establishes a platform for regular interactions and dialogue within the Ile-de-France Systems and Computational Neuroscience community. We propose an innovative and engaging project where a scientific seminar meets social interaction, the “Neural Networking Night”: Elevate the understanding of the brain in a social setting at a Neuroscience Seminar in “Le Piano Vache” pub (8 Rue Laplace, 75005 Paris), an iconic student pub in the academic 5th arrondissement.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://neuralnetworkingnight.github.io/vacancy/vacancy1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/vacancy/vacancy1/</guid>
+      <description>You can write $\LaTeX$ and Markdown here.&#xA;Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
+    </item>
+    <item>
+      <title>The mission of the group</title>
+      <link>https://neuralnetworkingnight.github.io/organizers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/organizers/</guid>
+      <description>Who organizes Neural Networking Night? Neural Networking Night is currently organized by Alex Cayco Gajic (LNC2, ENS, PSL), Srdjan Ostojic (LNC2, ENS, PSL), João Barbosa (Institute for Neuromodulation, Cognitive Neuroimaing Lab - The Computational Brain, Neurospin) and Michael Graupner (SPPIN, Université Paris Cité).&#xA;It emerged from SysNeuroDrinks or Laboiratoire, which was created by Alex and Michael in the beginning of 2023 as informal, monthly gathering of the Systems and Computational Neuroscience Communities in The Bombardier bar (2 Pl.</description>
+    </item>
+    <item>
+      <title>The misson of the Neural Networking Night</title>
+      <link>https://neuralnetworkingnight.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/about/</guid>
+      <description>What is Neural Networking Night? Neural Networking Night (NNN) establishes a platform for regular interactions and dialogue within the Ile-de-France Systems and Computational Neuroscience community. We propose an innovative and engaging project where a scientific seminar meets social interaction, the “Neural Networking Night”: Elevate the understanding of the brain in a social setting at a Neuroscience Seminar in “Le Piano Vache” pub (8 Rue Laplace, 75005 Paris), an iconic student pub in the academic 5th arrondissement.</description>
+    </item>
+  </channel>
+</rss>
