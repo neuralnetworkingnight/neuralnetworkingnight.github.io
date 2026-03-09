@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://research.pasteur.fr/fr/member/jean-baptiste-masson/"
 picture = "/speakers/JeanBaptisteMasson.jpg"
 project_id = "1"
-weight = 9
+weight = 29
 short_description = "Embodied neuroAI with drosophila larva"
 title = "Jun 13th, 2025 - Jean-Baptiste Masson"
 [[participants]]

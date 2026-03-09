@@ -24,13 +24,6 @@
       <description>NeuroPSI, Université Paris-Saclay&#xA;Neural circuit mechanisms of flexible sensorimotor decisions Animals respond to their environment differently depending on the environmental context or their internal state. Thus the implementation of the processes underlying behavioral selection needs to be flexible to allow information about the changes in the environment as well as the information about internal needs to influence the selection of behavior at any given moment. I will in this talk present our work that sheds light on the neural circuit mechanisms underlying the context/state-dependent modulation of sensorimotor decisions at multiple levels from molecules to neural circuits and behavior using Drosophila larva as a model.</description>
     </item>
     <item>
-      <title>Jun 13th, 2025 - Jean-Baptiste Masson</title>
-      <link>https://neuralnetworkingnight.github.io/project/jeanbaptistemasson/</link>
-      <pubDate>Fri, 13 Jun 2025 16:00:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/jeanbaptistemasson/</guid>
-      <description>Institut Pasteur&#xA;Embodied neuroAI with drosophila larva Animals are not free-floating neural networks that perform classification tasks. Our body, the temporal continuity of our actions, and our sensory word shape the property and the computing of biological neural networks. Advances in Drosophila genetic manipulation, neural connectomics, and amortised inference (acceleration of the sampling procedure using neural networks) have allowed us to study small neural circuits&amp;rsquo; organisation, structure, and function. We still have a limited understanding of the forces organising small neural circuits.</description>
-    </item>
-    <item>
       <title>Jun 5th, 2026 - Desdemona Fricker</title>
       <link>https://neuralnetworkingnight.github.io/project/desdemonafricker/</link>
       <pubDate>Fri, 05 Jun 2026 16:30:00 +0100</pubDate>
@@ -169,6 +162,13 @@
       <pubDate>Fri, 12 Jul 2024 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/gabriellegirardeau/</guid>
       <description>Institut du Fer-à-Moulin&#xA;Neural mechanisms for emotional memory processing during sleep The gradual reinforcement of memories, called “consolidation”, is a process occurring partially during sleep and mediated by various patterns of coordinated neural activity. The formation of contextualized emotional memories involves a large network of structures, among which the hippocampus and the baso-lateral amygdala (BLA) are central. In the dorsal hippocampus, fast oscillations (sharp-wave ripples) during non-REM sleep mediate the consolidation of spatial memories through the reactivation of place cell activity.</description>
+    </item>
+    <item>
+      <title>Jun 13th, 2025 - Jean-Baptiste Masson</title>
+      <link>https://neuralnetworkingnight.github.io/project/jeanbaptistemasson/</link>
+      <pubDate>Fri, 13 Jun 2025 16:00:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/jeanbaptistemasson/</guid>
+      <description>Institut Pasteur&#xA;Embodied neuroAI with drosophila larva Animals are not free-floating neural networks that perform classification tasks. Our body, the temporal continuity of our actions, and our sensory word shape the property and the computing of biological neural networks. Advances in Drosophila genetic manipulation, neural connectomics, and amortised inference (acceleration of the sampling procedure using neural networks) have allowed us to study small neural circuits&amp;rsquo; organisation, structure, and function. We still have a limited understanding of the forces organising small neural circuits.</description>
     </item>
   </channel>
 </rss>
