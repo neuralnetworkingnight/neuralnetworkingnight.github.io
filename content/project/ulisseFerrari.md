@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://www.institut-vision.org/index.php/en/researchers/ulisse-ferrari"
 picture = "/speakers/UlisseFerrari.png"
 project_id = "3"
-weight = 7
+weight = 17
 short_description = "How do neural correlations impact retinal encoding?"
 title = "Mar 6th, 2026 - Ulisse Ferrari"
 [[participants]]
