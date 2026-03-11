@@ -140,7 +140,7 @@
       <link>https://neuralnetworkingnight.github.io/project/ulisseferrari/</link>
       <pubDate>Fri, 06 Mar 2026 16:30:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/ulisseferrari/</guid>
-      <description>Institut de la Vision&#xA;How do neural correlations impact retinal encoding? </description>
+      <description>Institut de la Vision&#xA;Collective behavior in the retinal stimulus encoding Vision starts from the retina, where multiple layers of noisy neurons encode the light signal into electrical activity, process it, and transfer it to the brain. Neurons of the same layer do not work independently, but rather show collective behaviors that synchronize their activity. I will combine statistical physics, information theory and machine learning to first characterize the population activity, and then to compute the impact of synchronisation to the retinal capacity of transmitting information.</description>
     </item>
     <item>
       <title>Apr 4th, 2025 - João Barbosa</title>
