@@ -10,13 +10,6 @@
     <lastBuildDate>Fri, 05 Jun 2026 16:30:00 +0100</lastBuildDate>
     <atom:link href="https://neuralnetworkingnight.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Apr 10th, 2026 - Jonas Ranft</title>
-      <link>https://neuralnetworkingnight.github.io/project/jonasranft/</link>
-      <pubDate>Fri, 10 Apr 2026 16:30:00 +0100</pubDate>
-      <guid>https://neuralnetworkingnight.github.io/project/jonasranft/</guid>
-      <description>IBENS, ENS, PSL&#xA;Biophysical determinants of synaptic stability and size fluctuations Developmental and activity-dependent modifications of synapses are thought to underlie learning and memory. However, synapses are microscopic structures often containing only tens to hundreds of neurotransmitter receptors responsible for synaptic transmission. As such, they are exposed to strong fluctuations, and an important problem of neuroscience remains to reconcile the molecular fluctuations of synapses with the long-term nature of the memories they encode, requiring a precise understanding of the biophysical mechanisms that govern the accumulation of neurotransmitter receptors at synaptic domains.</description>
-    </item>
-    <item>
       <title>May 7th, 2026 - Tihana Jovanic</title>
       <link>https://neuralnetworkingnight.github.io/project/tihanajovanic/</link>
       <pubDate>Thu, 07 May 2026 16:30:00 +0100</pubDate>
@@ -148,6 +141,13 @@
       <pubDate>Fri, 04 Apr 2025 16:00:00 +0100</pubDate>
       <guid>https://neuralnetworkingnight.github.io/project/joaobarbosa/</guid>
       <description>Institute de Neuromodulation, Sainte-Anne&#xA;Cognition through distributed computations Previous studies focusing on the neurophysiology complex behavior often focus on a single brain region or RNN, despite increasing evidence that information is encoded across the brain. Here, we analyzed neural dynamics across six brain regions of the monkey brain, revealing key differences beyond classical decoding analyses. Using surrogate causal perturbation on multi-regional RNNs trained to reproduce the data, we examined inter-area interactions shaping neural representations.</description>
+    </item>
+    <item>
+      <title>Apr 10th, 2026 - Jonas Ranft</title>
+      <link>https://neuralnetworkingnight.github.io/project/jonasranft/</link>
+      <pubDate>Fri, 10 Apr 2026 16:30:00 +0100</pubDate>
+      <guid>https://neuralnetworkingnight.github.io/project/jonasranft/</guid>
+      <description>IBENS, ENS, PSL&#xA;Biophysical determinants of synaptic stability and size fluctuations Developmental and activity-dependent modifications of synapses are thought to underlie learning and memory. However, synapses are microscopic structures often containing only tens to hundreds of neurotransmitter receptors responsible for synaptic transmission. As such, they are exposed to strong fluctuations, and an important problem of neuroscience remains to reconcile the molecular fluctuations of synapses with the long-term nature of the memories they encode, requiring a precise understanding of the biophysical mechanisms that govern the accumulation of neurotransmitter receptors at synaptic domains.</description>
     </item>
     <item>
       <title>May 2nd, 2025 - Sebastien Wolf</title>

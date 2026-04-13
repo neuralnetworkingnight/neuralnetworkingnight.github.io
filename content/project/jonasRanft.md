@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://qbio.ens.psl.eu/en/people/jonas-ranft"
 picture = "/speakers/JonasRanft.png"
 project_id = "3"
-weight = 8
+weight = 18
 short_description = "Biophysical determinants of synaptic stability and size fluctuations"
 title = "Apr 10th, 2026 - Jonas Ranft"
 [[participants]]
