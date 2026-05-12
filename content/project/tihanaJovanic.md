@@ -4,7 +4,7 @@ description = "This is the description"
 external_link = "https://neuropsi.cnrs.fr/annuaire/tihana-jovanic/"
 picture = "/speakers/TihanaJovanic.png"
 project_id = "3"
-weight = 9
+weight = 19
 short_description = "Neural circuit mechanisms of flexible sensorimotor decisions"
 title = "May 7th, 2026 - Tihana Jovanic"
 [[participants]]
