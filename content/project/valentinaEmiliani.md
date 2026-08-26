@@ -5,7 +5,7 @@ external_link = "https://www.institut-vision.org/index.php/en/researchers/valent
 picture = "/speakers/ValentinaEmiliani.jpg"
 project_id = "4"
 weight = 14
-short_description = "Title to be announced"
+short_description = "Holographic optogenetics for neuronal circuits interrogation"
 title = "Dec 4th, 2026 - Valentina Emiliani"
 [[participants]]
     name = "Member 1"
@@ -15,6 +15,7 @@ title = "Dec 4th, 2026 - Valentina Emiliani"
 
 _Institut de la Vision_
 
-## Title to be announced
+## Holographic optogenetics for neuronal circuits interrogation
+
 
 The title and abstract of this talk will be announced soon.
