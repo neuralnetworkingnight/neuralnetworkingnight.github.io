@@ -1,7 +1,7 @@
 +++
 date = "2026-10-02T16:30:00+01:00"
 description = "This is the description"
-external_link = "https://xiaowen-chen.github.io/"
+external_link = "https://sites.google.com/view/xiaowen-chen"
 picture = "/speakers/XiaowenChen.jpg"
 project_id = "4"
 weight = 12

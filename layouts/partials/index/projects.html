@@ -1,0 +1,43 @@
+{{ $projects_len := len (where .Site.RegularPages "Type" "project") }}
+{{ if gt $projects_len 0 }}
+<section id="projects" class="home-section">
+    <div class="container">
+
+        <!-- Section heading -->
+        <div class="row">
+            <div class="col-xs-12 col-md-12 section-heading">
+                <h1><a href="{{.Site.BaseURL}}/project/{{if .Site.Params.uglyURLs}}index.html{{end}}">{{ with .Site.Params.projects.title }}{{ . | markdownify }}{{ end }}</a></h1>
+                {{ with .Site.Params.projects.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+            </div>
+        </div>
+
+        <!-- Projects: soonest upcoming seminars first, based on the "date" front matter -->
+        {{ $upcoming := (where (where .Site.RegularPages "Type" "project") "Date" ">=" now).ByDate }}
+        {{ if gt (len $upcoming) 0 }}
+            {{ range first .Site.Params.projects.count $upcoming }}
+                {{ partial "index/single_project" . }}
+            {{ end }}
+        {{ else }}
+            <div class="row">
+                <div class="col-xs-12">
+                    <p>Future seminars will be announced soon.</p>
+                </div>
+            </div>
+        {{ end }}
+
+
+        <!-- Link to all projects -->
+        <div>
+            {{ if gt $projects_len .Site.Params.projects.count }}
+                <p class="view-all">
+                    <a href="{{ .Site.BaseURL }}/project/{{if .Site.Params.uglyURLs}}index.html{{end}}">
+                        {{ with .Site.Params.projects.str_all }}{{ . | markdownify }}{{ end }}
+                        <i class="fa fa-angle-double-right"></i>
+                    </a>
+                </p>
+            {{ end }}
+        </div>
+
+    </div>
+</section>
+{{ end }}

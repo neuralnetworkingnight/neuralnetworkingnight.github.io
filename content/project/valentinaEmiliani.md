@@ -13,7 +13,7 @@ title = "Dec 4th, 2026 - Valentina Emiliani"
     id = "member1"
 +++
 
-_Institute de la Vision_
+_Institut de la Vision_
 
 ## Title to be announced
 
