@@ -18,4 +18,4 @@ _Institut de la Vision_
 ## Holographic optogenetics for neuronal circuits interrogation
 
 
-The title and abstract of this talk will be announced soon.
+The abstract of this talk will be announced soon.
