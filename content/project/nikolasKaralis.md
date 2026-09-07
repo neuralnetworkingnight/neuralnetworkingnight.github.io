@@ -5,7 +5,7 @@ external_link = "https://parisbraininstitute.org/collaborators/karalis-nikolas"
 picture = "/speakers/NikolasKaralis.jpg"
 project_id = "4"
 weight = 11
-short_description = "Title to be announced"
+short_description = "Neuromodulation of attractor and circuit dynamics"
 title = "Sep 11th, 2026 - Nikolas Karalis"
 [[participants]]
     name = "Member 1"
@@ -15,6 +15,6 @@ title = "Sep 11th, 2026 - Nikolas Karalis"
 
 _Paris Brain Institute_
 
-## Title to be announced
+## Neuromodulation of attractor and circuit dynamics
 
-The title and abstract of this talk will be announced soon.
+The abstract of this talk will be announced soon.
