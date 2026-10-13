@@ -11,19 +11,42 @@
             </div>
         </div>
 
-        <!-- Projects: soonest upcoming seminars first, based on the "date" front matter -->
-        {{ $upcoming := (where (where .Site.RegularPages "Type" "project") "Date" ">=" now).ByDate }}
-        {{ if gt (len $upcoming) 0 }}
-            {{ range first .Site.Params.projects.count $upcoming }}
-                {{ partial "index/single_project" . }}
+        <!-- Projects: soonest upcoming seminars first, based on the "date" front matter.
+             All seminars still upcoming at build time are rendered; the script below
+             hides the ones that have passed by the time the page is viewed, so the
+             list stays current without rebuilding. Without JS, the first N are shown. -->
+        {{ $count := .Site.Params.projects.count }}
+        {{ $upcoming := (where (where .Site.RegularPages "Type" "project") "Date" ">=" (now.AddDate 0 0 -1)).ByDate }}
+        <div id="upcoming-events" data-count="{{ $count }}">
+            {{ range $i, $p := $upcoming }}
+                <div class="upcoming-event" data-date="{{ $p.Date.Format "2006-01-02" }}"{{ if ge $i $count }} style="display: none;"{{ end }}>
+                    {{ partial "index/single_project" $p }}
+                </div>
             {{ end }}
-        {{ else }}
-            <div class="row">
+            <div class="row upcoming-none"{{ if gt (len $upcoming) 0 }} style="display: none;"{{ end }}>
                 <div class="col-xs-12">
                     <p>Future seminars will be announced soon.</p>
                 </div>
             </div>
-        {{ end }}
+        </div>
+        <script>
+        (function () {
+            var container = document.getElementById('upcoming-events');
+            if (!container) return;
+            var count = parseInt(container.getAttribute('data-count'), 10) || 3;
+            // An event stays listed until the end of its day (Paris time).
+            var now = new Date();
+            var shown = 0;
+            var events = container.querySelectorAll('.upcoming-event');
+            for (var i = 0; i < events.length; i++) {
+                var end = new Date(events[i].getAttribute('data-date') + 'T23:59:59+01:00');
+                var visible = end >= now && shown < count;
+                events[i].style.display = visible ? '' : 'none';
+                if (visible) shown++;
+            }
+            container.querySelector('.upcoming-none').style.display = shown ? 'none' : '';
+        })();
+        </script>
 
 
         <!-- Link to all projects -->
